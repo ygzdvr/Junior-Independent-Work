@@ -1,0 +1,79 @@
+float:
+  any:
+  - base_args: ['@metric']
+    constructor: MyAlgorithmVanilla
+    disabled: false
+    docker_tag: ann-benchmarks-my-algorithm-vanilla-opt-b1
+    module: ann_benchmarks.algorithms.my_algorithm_vanilla_opt_b1
+    name: my-algorithm-vanilla-opt-b1
+    run_groups:
+      M-12:
+        arg_groups: [{M: 12, efConstruction: 500}]
+        args: {}
+        query_args: [[10, 20, 40, 80, 120, 200, 400, 600, 800]]
+      M-16:
+        arg_groups: [{M: 16, efConstruction: 500}]
+        args: {}
+        query_args: [[10, 20, 40, 80, 120, 200, 400, 600, 800]]
+      M-24:
+        arg_groups: [{M: 24, efConstruction: 500}]
+        args: {}
+        query_args: [[10, 20, 40, 80, 120, 200, 400, 600, 800]]
+      M-36:
+        arg_groups: [{M: 36, efConstruction: 500}]
+        args: {}
+        query_args: [[10, 20, 40, 80, 120, 200, 400, 600, 800]]
+      M-4:
+        arg_groups: [{M: 4, efConstruction: 500}]
+        args: {}
+        query_args: [[10, 20, 40, 80, 120, 200, 400, 600, 800]]
+      M-48:
+        arg_groups: [{M: 48, efConstruction: 500}]
+        args: {}
+        query_args: [[10, 20, 40, 80, 120, 200, 400, 600, 800]]
+      M-64:
+        arg_groups: [{M: 64, efConstruction: 500}]
+        args: {}
+        query_args: [[10, 20, 40, 80, 120, 200, 400, 600, 800]]
+      M-8:
+        arg_groups: [{M: 8, efConstruction: 500}]
+        args: {}
+        query_args: [[10, 20, 40, 80, 120, 200, 400, 600, 800]]
+      M-96:
+        arg_groups: [{M: 96, efConstruction: 500}]
+        args: {}
+        query_args: [[10, 20, 40, 80, 120, 200, 400, 600, 800]]
+      # Groups with robust pruning (DiskANN-inspired)
+      M16-Alpha11:
+        arg_groups: [{M: 16, efConstruction: 500, pruningAlpha: 1.1}]
+        args: {}
+        query_args: [[10, 20, 40, 80, 120, 200, 400, 600, 800]]
+      M16-Alpha12:
+        arg_groups: [{M: 16, efConstruction: 500, pruningAlpha: 1.2}]
+        args: {}
+        query_args: [[10, 20, 40, 80, 120, 200, 400, 600, 800]]
+      M16-Alpha13:
+        arg_groups: [{M: 16, efConstruction: 500, pruningAlpha: 1.3}]
+        args: {}
+        query_args: [[10, 20, 40, 80, 120, 200, 400, 600, 800]]
+      M16-Alpha14:
+        arg_groups: [{M: 16, efConstruction: 500, pruningAlpha: 1.4}]
+        args: {}
+        query_args: [[10, 20, 40, 80, 120, 200, 400, 600, 800]]
+      M16-Alpha15:
+        arg_groups: [{M: 16, efConstruction: 500, pruningAlpha: 1.5}]
+        args: {}
+        query_args: [[10, 20, 40, 80, 120, 200, 400, 600, 800]]
+      # Different M values with pruning
+      M8-Alpha13:
+        arg_groups: [{M: 8, efConstruction: 500, pruningAlpha: 1.3}]
+        args: {}
+        query_args: [[10, 20, 40, 80, 120, 200, 400, 600, 800]]
+      M24-Alpha13:
+        arg_groups: [{M: 24, efConstruction: 500, pruningAlpha: 1.3}]
+        args: {}
+        query_args: [[10, 20, 40, 80, 120, 200, 400, 600, 800]]
+      M36-Alpha13:
+        arg_groups: [{M: 36, efConstruction: 500, pruningAlpha: 1.3}]
+        args: {}
+        query_args: [[10, 20, 40, 80, 120, 200, 400, 600, 800]]

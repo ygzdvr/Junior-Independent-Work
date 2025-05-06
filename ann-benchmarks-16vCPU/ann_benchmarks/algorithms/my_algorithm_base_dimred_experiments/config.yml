@@ -1,0 +1,217 @@
+float:
+  any:
+  - base_args: ['@metric']
+    constructor: MyAlgorithmBaseDimRed
+    disabled: false
+    docker_tag: ann-benchmarks-my-algorithm-base-dimred-experiments
+    module: ann_benchmarks.algorithms.my_algorithm_base_dimred_experiments
+    name: my-algorithm-base-dimred-experiments
+    run_groups:
+      M-4-256-T:
+        arg_groups: [{M: 4, efConstruction: 500, alpha: 1.0, use_dim_reduction: true, reduction_threshold: 1, target_dims: [256], reduction_type: "random"}]
+        args: {}
+        query_args: [[10, 20, 40, 80, 120, 200, 400, 600, 800]]
+      M-8-256-T:
+        arg_groups: [{M: 8, efConstruction: 500, alpha: 1.0, use_dim_reduction: true, reduction_threshold: 1, target_dims: [256], reduction_type: "random"}]
+        args: {}
+        query_args: [[10, 20, 40, 80, 120, 200, 400, 600, 800]]
+      M-12-256-T:
+        arg_groups: [{M: 12, efConstruction: 500, alpha: 1.0, use_dim_reduction: true, reduction_threshold: 1, target_dims: [256], reduction_type: "random"}]
+        args: {}
+        query_args: [[10, 20, 40, 80, 120, 200, 400, 600, 800]]
+      M-16-256-T:
+        arg_groups: [{M: 16, efConstruction: 500, alpha: 1.0, use_dim_reduction: true, reduction_threshold: 1, target_dims: [256], reduction_type: "random"}]
+        args: {}
+        query_args: [[10, 20, 40, 80, 120, 200, 400, 600, 800]]
+      M-4-256:
+        arg_groups: [{M: 4, efConstruction: 500, alpha: 1.0, use_dim_reduction: false, reduction_threshold: 1, target_dims: [256], reduction_type: "random"}]
+        args: {}
+        query_args: [[10, 20, 40, 80, 120, 200, 400, 600, 800]]
+      M-8-256:
+        arg_groups: [{M: 8, efConstruction: 500, alpha: 1.0, use_dim_reduction: false, reduction_threshold: 1, target_dims: [256], reduction_type: "random"}]
+        args: {}
+        query_args: [[10, 20, 40, 80, 120, 200, 400, 600, 800]]
+      M-12-256:
+        arg_groups: [{M: 12, efConstruction: 500, alpha: 1.0, use_dim_reduction: false, reduction_threshold: 1, target_dims: [256], reduction_type: "random"}]
+        args: {}
+        query_args: [[10, 20, 40, 80, 120, 200, 400, 600, 800]]
+      M-16-256:
+        arg_groups: [{M: 16, efConstruction: 500, alpha: 1.0, use_dim_reduction: false, reduction_threshold: 1, target_dims: [256], reduction_type: "random"}]
+        args: {}
+        query_args: [[10, 20, 40, 80, 120, 200, 400, 600, 800]]
+      M-24-256:
+        arg_groups: [{M: 24, efConstruction: 500, alpha: 1.0, use_dim_reduction: false, reduction_threshold: 1, target_dims: [256], reduction_type: "random"}]
+        args: {}
+        query_args: [[10, 20, 40, 80, 120, 200, 400, 600, 800]]
+      M-36-256:
+        arg_groups: [{M: 36, efConstruction: 500, alpha: 1.0, use_dim_reduction: false, reduction_threshold: 1, target_dims: [256], reduction_type: "random"}]
+        args: {}
+        query_args: [[10, 20, 40, 80, 120, 200, 400, 600, 800]]
+      M-48-256:
+        arg_groups: [{M: 48, efConstruction: 500, alpha: 1.0, use_dim_reduction: false, reduction_threshold: 1, target_dims: [256], reduction_type: "random"}]
+        args: {}
+        query_args: [[10, 20, 40, 80, 120, 200, 400, 600, 800]]
+      M-64-256:
+        arg_groups: [{M: 64, efConstruction: 500, alpha: 1.0, use_dim_reduction: false, reduction_threshold: 1, target_dims: [256], reduction_type: "random"}]
+        args: {}
+        query_args: [[10, 20, 40, 80, 120, 200, 400, 600, 800]]
+      M-96-256:
+        arg_groups: [{M: 96, efConstruction: 500, alpha: 1.0, use_dim_reduction: false, reduction_threshold: 1, target_dims: [256], reduction_type: "random"}]
+        args: {}
+        query_args: [[10, 20, 40, 80, 120, 200, 400, 600, 800]]
+      M-4-240-224-T:
+        arg_groups: [{M: 4, efConstruction: 500, alpha: 1.0, use_dim_reduction: true, reduction_threshold: 1, target_dims: [240, 224], reduction_type: "random"}]
+        args: {}
+        query_args: [[10, 20, 40, 80, 120, 200, 400, 600, 800]]
+      M-8-240-224-T:
+        arg_groups: [{M: 8, efConstruction: 500, alpha: 1.0, use_dim_reduction: true, reduction_threshold: 1, target_dims: [240, 224], reduction_type: "random"}]
+        args: {}
+        query_args: [[10, 20, 40, 80, 120, 200, 400, 600, 800]]
+      M-12-240-224-T:
+        arg_groups: [{M: 12, efConstruction: 500, alpha: 1.0, use_dim_reduction: true, reduction_threshold: 1, target_dims: [240, 224], reduction_type: "random"}]
+        args: {}
+        query_args: [[10, 20, 40, 80, 120, 200, 400, 600, 800]]
+      M-16-240-224-T:
+        arg_groups: [{M: 16, efConstruction: 500, alpha: 1.0, use_dim_reduction: true, reduction_threshold: 1, target_dims: [240, 224], reduction_type: "random"}]
+        args: {}
+        query_args: [[10, 20, 40, 80, 120, 200, 400, 600, 800]]
+      M-4-240-224:
+        arg_groups: [{M: 4, efConstruction: 500, alpha: 1.0, use_dim_reduction: false, reduction_threshold: 1, target_dims: [240, 224], reduction_type: "random"}]
+        args: {}
+        query_args: [[10, 20, 40, 80, 120, 200, 400, 600, 800]]
+      M-8-240-224:
+        arg_groups: [{M: 8, efConstruction: 500, alpha: 1.0, use_dim_reduction: false, reduction_threshold: 1, target_dims: [240, 224], reduction_type: "random"}]
+        args: {}
+        query_args: [[10, 20, 40, 80, 120, 200, 400, 600, 800]]
+      M-12-240-224:
+        arg_groups: [{M: 12, efConstruction: 500, alpha: 1.0, use_dim_reduction: false, reduction_threshold: 1, target_dims: [240, 224], reduction_type: "random"}]
+        args: {}
+        query_args: [[10, 20, 40, 80, 120, 200, 400, 600, 800]]
+      M-16-240-224:
+        arg_groups: [{M: 16, efConstruction: 500, alpha: 1.0, use_dim_reduction: false, reduction_threshold: 1, target_dims: [240, 224], reduction_type: "random"}]
+        args: {}
+        query_args: [[10, 20, 40, 80, 120, 200, 400, 600, 800]]
+      M-24-240-224:
+        arg_groups: [{M: 24, efConstruction: 500, alpha: 1.0, use_dim_reduction: true, reduction_threshold: 1, target_dims: [240, 224], reduction_type: "random"}]
+        args: {}
+        query_args: [[10, 20, 40, 80, 120, 200, 400, 600, 800]]
+      M-36-240-224:
+        arg_groups: [{M: 36, efConstruction: 500, alpha: 1.0, use_dim_reduction: true, reduction_threshold: 1, target_dims: [240, 224], reduction_type: "random"}]
+        args: {}
+        query_args: [[10, 20, 40, 80, 120, 200, 400, 600, 800]]
+      M-48-240-224:
+        arg_groups: [{M: 48, efConstruction: 500, alpha: 1.0, use_dim_reduction: true, reduction_threshold: 1, target_dims: [240, 224], reduction_type: "random"}]
+        args: {}
+        query_args: [[10, 20, 40, 80, 120, 200, 400, 600, 800]]
+      M-64-240-224:
+        arg_groups: [{M: 64, efConstruction: 500, alpha: 1.0, use_dim_reduction: true, reduction_threshold: 1, target_dims: [240, 224], reduction_type: "random"}]
+        args: {}
+        query_args: [[10, 20, 40, 80, 120, 200, 400, 600, 800]]
+      M-96-240-224:
+        arg_groups: [{M: 96, efConstruction: 500, alpha: 1.0, use_dim_reduction: true, reduction_threshold: 1, target_dims: [240, 224], reduction_type: "random"}]
+        args: {}
+        query_args: [[10, 20, 40, 80, 120, 200, 400, 600, 800]]
+      M-4-240-T:
+        arg_groups: [{M: 4, efConstruction: 500, alpha: 1.0, use_dim_reduction: true, reduction_threshold: 1, target_dims: [240], reduction_type: "random"}]
+        args: {}
+        query_args: [[10, 20, 40, 80, 120, 200, 400, 600, 800]]
+      M-8-240-T:
+        arg_groups: [{M: 8, efConstruction: 500, alpha: 1.0, use_dim_reduction: true, reduction_threshold: 1, target_dims: [240], reduction_type: "random"}]
+        args: {}
+        query_args: [[10, 20, 40, 80, 120, 200, 400, 600, 800]]
+      M-12-240-T:
+        arg_groups: [{M: 12, efConstruction: 500, alpha: 1.0, use_dim_reduction: true, reduction_threshold: 1, target_dims: [240], reduction_type: "random"}]
+        args: {}
+        query_args: [[10, 20, 40, 80, 120, 200, 400, 600, 800]]
+      M-16-240-T:
+        arg_groups: [{M: 16, efConstruction: 500, alpha: 1.0, use_dim_reduction: true, reduction_threshold: 1, target_dims: [240], reduction_type: "random"}]
+        args: {}
+        query_args: [[10, 20, 40, 80, 120, 200, 400, 600, 800]]
+      M-4-240:
+        arg_groups: [{M: 4, efConstruction: 500, alpha: 1.0, use_dim_reduction: false, reduction_threshold: 1, target_dims: [240], reduction_type: "random"}]
+        args: {}
+        query_args: [[10, 20, 40, 80, 120, 200, 400, 600, 800]]
+      M-8-240:
+        arg_groups: [{M: 8, efConstruction: 500, alpha: 1.0, use_dim_reduction: false, reduction_threshold: 1, target_dims: [240], reduction_type: "random"}]
+        args: {}
+        query_args: [[10, 20, 40, 80, 120, 200, 400, 600, 800]]
+      M-12-240:
+        arg_groups: [{M: 12, efConstruction: 500, alpha: 1.0, use_dim_reduction: false, reduction_threshold: 1, target_dims: [240], reduction_type: "random"}]
+        args: {}
+        query_args: [[10, 20, 40, 80, 120, 200, 400, 600, 800]]
+      M-16-240:
+        arg_groups: [{M: 16, efConstruction: 500, alpha: 1.0, use_dim_reduction: false, reduction_threshold: 1, target_dims: [240], reduction_type: "random"}]
+        args: {}
+        query_args: [[10, 20, 40, 80, 120, 200, 400, 600, 800]]
+      M-24-240:
+        arg_groups: [{M: 24, efConstruction: 500, alpha: 1.0, use_dim_reduction: true, reduction_threshold: 1, target_dims: [240], reduction_type: "random"}]
+        args: {}
+        query_args: [[10, 20, 40, 80, 120, 200, 400, 600, 800]]
+      M-36-240:
+        arg_groups: [{M: 36, efConstruction: 500, alpha: 1.0, use_dim_reduction: true, reduction_threshold: 1, target_dims: [240], reduction_type: "random"}]
+        args: {}
+        query_args: [[10, 20, 40, 80, 120, 200, 400, 600, 800]]
+      M-48-240:
+        arg_groups: [{M: 48, efConstruction: 500, alpha: 1.0, use_dim_reduction: true, reduction_threshold: 1, target_dims: [240], reduction_type: "random"}]
+        args: {}
+        query_args: [[10, 20, 40, 80, 120, 200, 400, 600, 800]]
+      M-64-240:
+        arg_groups: [{M: 64, efConstruction: 500, alpha: 1.0, use_dim_reduction: true, reduction_threshold: 1, target_dims: [240], reduction_type: "random"}]
+        args: {}
+        query_args: [[10, 20, 40, 80, 120, 200, 400, 600, 800]]
+      M-96-240:
+        arg_groups: [{M: 96, efConstruction: 500, alpha: 1.0, use_dim_reduction: true, reduction_threshold: 1, target_dims: [240], reduction_type: "random"}]
+        args: {}
+        query_args: [[10, 20, 40, 80, 120, 200, 400, 600, 800]]
+      M-4-224-T:
+        arg_groups: [{M: 4, efConstruction: 500, alpha: 1.0, use_dim_reduction: true, reduction_threshold: 1, target_dims: [224], reduction_type: "random"}]
+        args: {}
+        query_args: [[10, 20, 40, 80, 120, 200, 400, 600, 800]]
+      M-8-224-T:
+        arg_groups: [{M: 8, efConstruction: 500, alpha: 1.0, use_dim_reduction: true, reduction_threshold: 1, target_dims: [224], reduction_type: "random"}]
+        args: {}
+        query_args: [[10, 20, 40, 80, 120, 200, 400, 600, 800]]
+      M-12-224-T:
+        arg_groups: [{M: 12, efConstruction: 500, alpha: 1.0, use_dim_reduction: true, reduction_threshold: 1, target_dims: [224], reduction_type: "random"}]
+        args: {}
+        query_args: [[10, 20, 40, 80, 120, 200, 400, 600, 800]]
+      M-16-224-T:
+        arg_groups: [{M: 16, efConstruction: 500, alpha: 1.0, use_dim_reduction: true, reduction_threshold: 1, target_dims: [224], reduction_type: "random"}]
+        args: {}
+        query_args: [[10, 20, 40, 80, 120, 200, 400, 600, 800]]
+      M-4-224:
+        arg_groups: [{M: 4, efConstruction: 500, alpha: 1.0, use_dim_reduction: false, reduction_threshold: 1, target_dims: [224], reduction_type: "random"}]
+        args: {}
+        query_args: [[10, 20, 40, 80, 120, 200, 400, 600, 800]]
+      M-8-224:
+        arg_groups: [{M: 8, efConstruction: 500, alpha: 1.0, use_dim_reduction: false, reduction_threshold: 1, target_dims: [224], reduction_type: "random"}]
+        args: {}
+        query_args: [[10, 20, 40, 80, 120, 200, 400, 600, 800]]
+      M-12-224:
+        arg_groups: [{M: 12, efConstruction: 500, alpha: 1.0, use_dim_reduction: false, reduction_threshold: 1, target_dims: [224], reduction_type: "random"}]
+        args: {}
+        query_args: [[10, 20, 40, 80, 120, 200, 400, 600, 800]]
+      M-16-224:
+        arg_groups: [{M: 16, efConstruction: 500, alpha: 1.0, use_dim_reduction: false, reduction_threshold: 1, target_dims: [224], reduction_type: "random"}]
+        args: {}
+        query_args: [[10, 20, 40, 80, 120, 200, 400, 600, 800]]
+      M-24-224:
+        arg_groups: [{M: 24, efConstruction: 500, alpha: 1.0, use_dim_reduction: true, reduction_threshold: 1, target_dims: [224], reduction_type: "random"}]
+        args: {}
+        query_args: [[10, 20, 40, 80, 120, 200, 400, 600, 800]]
+      M-36-224:
+        arg_groups: [{M: 36, efConstruction: 500, alpha: 1.0, use_dim_reduction: true, reduction_threshold: 1, target_dims: [224], reduction_type: "random"}]
+        args: {}
+        query_args: [[10, 20, 40, 80, 120, 200, 400, 600, 800]]
+      M-48-224:
+        arg_groups: [{M: 48, efConstruction: 500, alpha: 1.0, use_dim_reduction: true, reduction_threshold: 1, target_dims: [224], reduction_type: "random"}]
+        args: {}
+        query_args: [[10, 20, 40, 80, 120, 200, 400, 600, 800]]
+      M-64-224:
+        arg_groups: [{M: 64, efConstruction: 500, alpha: 1.0, use_dim_reduction: true, reduction_threshold: 1, target_dims: [224], reduction_type: "random"}]
+        args: {}
+        query_args: [[10, 20, 40, 80, 120, 200, 400, 600, 800]]
+      M-96-224:
+        arg_groups: [{M: 96, efConstruction: 500, alpha: 1.0, use_dim_reduction: true, reduction_threshold: 1, target_dims: [224], reduction_type: "random"}]
+        args: {}
+        query_args: [[10, 20, 40, 80, 120, 200, 400, 600, 800]]

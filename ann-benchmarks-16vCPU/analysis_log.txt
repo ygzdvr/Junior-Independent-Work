@@ -1,0 +1,26 @@
+Starting parallel M-value analysis for HNSW algorithm...
+Using random seed: 42 for reproducibility
+Starting parallel analysis with 2 processes...
+
+=== Analyzing M=8 ===
+Generating 10000 random vectors for testing...
+
+Testing performance with M=8, EF=100, DIM=256
+
+=== Analyzing M=16 ===
+Generating 10000 random vectors for testing...
+
+Testing performance with M=16, EF=100, DIM=256
+
+Testing performance with M=8, EF=200, DIM=256
+
+Testing performance with M=16, EF=200, DIM=256
+
+Testing performance with M=8, EF=400, DIM=256
+
+Testing performance with M=16, EF=400, DIM=256
+Data for M=16 saved to m_analysis/data/m_16/
+Completed analysis for M=16
+Successfully analyzed 2 M values: [8, 16]
+
+Analysis complete! Results saved to 'm_analysis/' directory

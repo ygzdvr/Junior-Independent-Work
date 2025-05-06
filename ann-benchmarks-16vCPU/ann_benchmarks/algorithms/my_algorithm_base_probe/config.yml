@@ -1,0 +1,84 @@
+float:
+  any:
+  - base_args: ['@metric']
+    constructor: MyAlgorithmBaseProbe
+    disabled: false
+    docker_tag: ann-benchmarks-my-algorithm-base-probe
+    module: ann_benchmarks.algorithms.my_algorithm_base_probe
+    name: my-algorithm-base-probe
+    run_groups:
+      M-4:
+        arg_groups: [
+          {M: 4, efConstruction: 500}, 
+          {M: 4, efConstruction: 500, numProbes: 3},
+          {M: 4, efConstruction: 500, numProbes: 5}
+        ]
+        args: {}
+        query_args: [[10, 20, 40, 80, 120, 200, 400, 600, 800]]
+      M-8:
+        arg_groups: [
+          {M: 8, efConstruction: 500},
+          {M: 8, efConstruction: 500, numProbes: 3},
+          {M: 8, efConstruction: 500, numProbes: 5}
+        ]
+        args: {}
+        query_args: [[10, 20, 40, 80, 120, 200, 400, 600, 800]]
+      M-12:
+        arg_groups: [
+          {M: 12, efConstruction: 500},
+          {M: 12, efConstruction: 500, numProbes: 3},
+          {M: 12, efConstruction: 500, numProbes: 5}
+        ]
+        args: {}
+        query_args: [[10, 20, 40, 80, 120, 200, 400, 600, 800]]
+      M-16:
+        arg_groups: [
+          {M: 16, efConstruction: 500},
+          {M: 16, efConstruction: 500, numProbes: 3},
+          {M: 16, efConstruction: 500, numProbes: 5}
+        ]
+        args: {}
+        query_args: [[10, 20, 40, 80, 120, 200, 400, 600, 800]]
+      M-24:
+        arg_groups: [
+          {M: 24, efConstruction: 500},
+          {M: 24, efConstruction: 500, numProbes: 3},
+          {M: 24, efConstruction: 500, numProbes: 5}
+        ]
+        args: {}
+        query_args: [[10, 20, 40, 80, 120, 200, 400, 600, 800]]
+      M-36:
+        arg_groups: [
+          {M: 36, efConstruction: 500},
+          {M: 36, efConstruction: 500, numProbes: 3},
+          {M: 36, efConstruction: 500, numProbes: 5}
+        ]
+        args: {}
+        query_args: [[10, 20, 40, 80, 120, 200, 400, 600, 800]]
+      M-48:
+        arg_groups: [
+          {M: 48, efConstruction: 500},
+          {M: 48, efConstruction: 500, numProbes: 3},
+          {M: 48, efConstruction: 500, numProbes: 5}
+        ]
+        args: {}
+        query_args: [[10, 20, 40, 80, 120, 200, 400, 600, 800]]
+      M-64:
+        arg_groups: [
+          {M: 64, efConstruction: 500},
+          {M: 64, efConstruction: 500, numProbes: 3},
+          {M: 64, efConstruction: 500, numProbes: 5}
+        ]
+        args: {}
+        query_args: [[10, 20, 40, 80, 120, 200, 400, 600, 800]]
+      M-96:
+        arg_groups: [
+          {M: 96, efConstruction: 500},
+          {M: 96, efConstruction: 500, numProbes: 3},
+          {M: 96, efConstruction: 500, numProbes: 5}
+        ]
+        args: {}
+        query_args: [[10, 20, 40, 80, 120, 200, 400, 600, 800]]
+
+# ... Add other parameter combinations as needed ...
+# e.g., different M, efConstruction values with/without probes

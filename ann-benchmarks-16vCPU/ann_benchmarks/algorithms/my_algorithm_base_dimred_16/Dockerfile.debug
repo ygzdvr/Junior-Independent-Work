@@ -1,0 +1,10 @@
+FROM ubuntu:latest
+
+# First, copy everything to a working directory
+COPY . /workdir/
+
+# Set working directory
+WORKDIR /workdir
+
+# Keep container running
+CMD ["sleep", "infinity"] 

@@ -1,0 +1,47 @@
+FROM python:3.8-slim
+
+# Install required dependencies and C++ build tools
+RUN apt-get update && apt-get install -y \
+    build-essential \
+    g++ \
+    cmake \
+    && rm -rf /var/lib/apt/lists/*
+
+# Install Python dependencies including hnswlib directly from pip
+RUN pip install numpy matplotlib tqdm pybind11 setuptools wheel
+
+# Copy the source code and Python bindings
+COPY src/ /home/app/src/
+
+# Install hnswlib
+WORKDIR /home/app/src/python_bindings
+RUN python3 setup.py install
+
+# Copy the analysis script
+COPY complexity_analysis.py /home/app/
+COPY theoretical_analysis.md /home/app/
+
+# Set working directory
+WORKDIR /home/app
+
+# Verify installation
+RUN python -c 'import hnswlib'
+
+# Set matplotlib to use the Agg backend (non-interactive)
+ENV MPLBACKEND=Agg
+
+# Create output directories
+RUN mkdir -p /output
+
+# Set optimized CPU and memory limits for exactly 16 workers
+ENV OMP_NUM_THREADS=1
+ENV MKL_NUM_THREADS=1
+ENV OPENBLAS_NUM_THREADS=1
+ENV NUMEXPR_NUM_THREADS=1
+ENV VECLIB_MAXIMUM_THREADS=1
+ENV NUMBA_NUM_THREADS=1
+ENV PYTHONUNBUFFERED=1
+
+# Command to run the analysis and copy the results
+# Force fork method for multiprocessing which works better in Docker
+CMD ["sh", "-c", "export PYTHONPATH=/home/app:$PYTHONPATH && python complexity_analysis.py && cp -r m_analysis /output/"] 
