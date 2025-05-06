@@ -1,0 +1,7 @@
+# Ignore large results directories
+ann-benchmarks-16vCPU/results/
+ann-benchmarks-16vCPU/results_temp/
+
+# Ignore common files
+.DS_Store
+*.log
