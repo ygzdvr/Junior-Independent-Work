@@ -1,0 +1,366 @@
+writing output to results/nytimes-256-angular.png
+Was unable to read angular_M_12_alpha_1_0_efConstruction_500_reduction_threshold_1_reduction_type_random_target_dims_256_use_dim_reduction_true_120.hdf5
+Available algorithms: ['hnsw(faiss)', 'hnsw(vespa)', 'hnswlib', 'my-algorithm', 'my-algorithm-base-dimred-192', 'my-algorithm-base-dimred-224', 'my-algorithm-base-dimred-224D', 'my-algorithm-base-dimred-240', 'my-algorithm-base-dimred-240-random', 'my-algorithm-base-dimred-240D', 'my-algorithm-base-dimred-240D-224D', 'my-algorithm-base-dimred-250', 'my-algorithm-base-dimred-250-random', 'my-algorithm-base-dimred-256D', 'my-algorithm-base-no-dimred']
+Plotting algorithms: my-algorithm-base-dimred-224D, my-algorithm-base-dimred-240D, my-algorithm-base-dimred-240D-224D, my-algorithm-base-dimred-256D
+Was unable to read angular_M_12_alpha_1_0_efConstruction_500_reduction_threshold_1_reduction_type_random_target_dims_256_use_dim_reduction_true_120.hdf5
+Found cached result
+765: hnswlib ({'M': 24, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [240, 224], 'reduction_type': 'random'}, 'efQuery': 10)        0.719     2462.578
+Found cached result
+766: hnswlib ({'M': 24, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [240, 224], 'reduction_type': 'random'}, 'efQuery': 20)        0.820     1945.428
+Found cached result
+767: hnswlib ({'M': 24, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [240, 224], 'reduction_type': 'random'}, 'efQuery': 40)        0.879     1422.912
+Found cached result
+768: hnswlib ({'M': 24, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [240, 224], 'reduction_type': 'random'}, 'efQuery': 80)        0.916      936.238
+Found cached result
+769: hnswlib ({'M': 24, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [240, 224], 'reduction_type': 'random'}, 'efQuery': 120)        0.932      694.287
+Found cached result
+770: hnswlib ({'M': 24, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [240, 224], 'reduction_type': 'random'}, 'efQuery': 200)        0.949      469.418
+Found cached result
+771: hnswlib ({'M': 24, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [240, 224], 'reduction_type': 'random'}, 'efQuery': 400)        0.969      269.914
+Found cached result
+772: hnswlib ({'M': 36, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [240, 224], 'reduction_type': 'random'}, 'efQuery': 10)        0.784     2054.101
+Found cached result
+773: hnswlib ({'M': 36, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [240, 224], 'reduction_type': 'random'}, 'efQuery': 20)        0.858     1593.811
+Found cached result
+774: hnswlib ({'M': 36, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [240, 224], 'reduction_type': 'random'}, 'efQuery': 40)        0.904     1115.492
+Found cached result
+775: hnswlib ({'M': 36, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [240, 224], 'reduction_type': 'random'}, 'efQuery': 80)        0.934      701.466
+Found cached result
+776: hnswlib ({'M': 24, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [240, 224], 'reduction_type': 'random'}, 'efQuery': 600)        0.979      188.789
+Found cached result
+777: hnswlib ({'M': 36, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [240, 224], 'reduction_type': 'random'}, 'efQuery': 120)        0.948      517.299
+Found cached result
+778: hnswlib ({'M': 36, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [240, 224], 'reduction_type': 'random'}, 'efQuery': 200)        0.964      445.771
+Found cached result
+779: hnswlib ({'M': 48, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [240, 224], 'reduction_type': 'random'}, 'efQuery': 10)        0.814     1995.016
+Found cached result
+780: hnswlib ({'M': 48, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [240, 224], 'reduction_type': 'random'}, 'efQuery': 20)        0.874     1322.372
+Found cached result
+781: hnswlib ({'M': 24, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [240, 224], 'reduction_type': 'random'}, 'efQuery': 800)        0.985      159.326
+Found cached result
+782: hnswlib ({'M': 48, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [240, 224], 'reduction_type': 'random'}, 'efQuery': 40)        0.915      892.312
+Found cached result
+783: hnswlib ({'M': 48, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [240, 224], 'reduction_type': 'random'}, 'efQuery': 80)        0.944      554.630
+Found cached result
+784: hnswlib ({'M': 36, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [240, 224], 'reduction_type': 'random'}, 'efQuery': 400)        0.981      211.409
+Found cached result
+785: hnswlib ({'M': 48, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [240, 224], 'reduction_type': 'random'}, 'efQuery': 120)        0.957      419.677
+Found cached result
+786: hnswlib ({'M': 64, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [240, 224], 'reduction_type': 'random'}, 'efQuery': 10)        0.832     1660.542
+Found cached result
+787: hnswlib ({'M': 48, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [240, 224], 'reduction_type': 'random'}, 'efQuery': 200)        0.972      271.548
+Found cached result
+788: hnswlib ({'M': 64, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [240, 224], 'reduction_type': 'random'}, 'efQuery': 20)        0.888     1200.249
+Found cached result
+789: hnswlib ({'M': 36, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [240, 224], 'reduction_type': 'random'}, 'efQuery': 600)        0.988      131.366
+Found cached result
+790: hnswlib ({'M': 64, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [240, 224], 'reduction_type': 'random'}, 'efQuery': 40)        0.926      779.818
+Found cached result
+791: hnswlib ({'M': 64, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [240, 224], 'reduction_type': 'random'}, 'efQuery': 80)        0.952      468.012
+Found cached result
+792: hnswlib ({'M': 48, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [240, 224], 'reduction_type': 'random'}, 'efQuery': 400)        0.987      145.573
+Found cached result
+793: hnswlib ({'M': 64, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [240, 224], 'reduction_type': 'random'}, 'efQuery': 120)        0.965      338.950
+Found cached result
+794: hnswlib ({'M': 36, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [240, 224], 'reduction_type': 'random'}, 'efQuery': 800)        0.992       96.002
+Found cached result
+795: hnswlib ({'M': 64, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [240, 224], 'reduction_type': 'random'}, 'efQuery': 200)        0.978      222.503
+Found cached result
+796: hnswlib ({'M': 48, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [240, 224], 'reduction_type': 'random'}, 'efQuery': 600)        0.992      109.277
+Found cached result
+797: hnswlib ({'M': 64, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [240, 224], 'reduction_type': 'random'}, 'efQuery': 400)        0.990      133.145
+Found cached result
+798: hnswlib ({'M': 48, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [240, 224], 'reduction_type': 'random'}, 'efQuery': 800)        0.995       80.380
+Found cached result
+799: hnswlib ({'M': 64, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [240, 224], 'reduction_type': 'random'}, 'efQuery': 600)        0.995       81.228
+Found cached result
+800: hnswlib ({'M': 64, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [240, 224], 'reduction_type': 'random'}, 'efQuery': 800)        0.997       62.805
+Found cached result
+801: hnswlib ({'M': 96, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [240, 224], 'reduction_type': 'random'}, 'efQuery': 10)        0.852     2449.746
+Found cached result
+802: hnswlib ({'M': 96, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [240, 224], 'reduction_type': 'random'}, 'efQuery': 20)        0.900     1857.502
+Found cached result
+803: hnswlib ({'M': 96, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [240, 224], 'reduction_type': 'random'}, 'efQuery': 40)        0.936     1238.340
+Found cached result
+804: hnswlib ({'M': 96, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [240, 224], 'reduction_type': 'random'}, 'efQuery': 80)        0.961      750.686
+Found cached result
+805: hnswlib ({'M': 96, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [240, 224], 'reduction_type': 'random'}, 'efQuery': 120)        0.972      539.301
+Found cached result
+806: hnswlib ({'M': 96, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [240, 224], 'reduction_type': 'random'}, 'efQuery': 200)        0.984      387.393
+Found cached result
+807: hnswlib ({'M': 96, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [240, 224], 'reduction_type': 'random'}, 'efQuery': 400)        0.995      206.230
+Found cached result
+808: hnswlib ({'M': 96, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [240, 224], 'reduction_type': 'random'}, 'efQuery': 600)        0.997      141.932
+Found cached result
+809: hnswlib ({'M': 96, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [240, 224], 'reduction_type': 'random'}, 'efQuery': 800)        0.998      109.522
+Found cached result
+810: hnswlib ({'M': 36, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [224], 'reduction_type': 'random'}, 'efQuery': 10)        0.782     2693.538
+Found cached result
+811: hnswlib ({'M': 36, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [224], 'reduction_type': 'random'}, 'efQuery': 20)        0.857     1975.488
+Found cached result
+812: hnswlib ({'M': 36, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [224], 'reduction_type': 'random'}, 'efQuery': 40)        0.903     1312.994
+Found cached result
+813: hnswlib ({'M': 36, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [224], 'reduction_type': 'random'}, 'efQuery': 80)        0.933      797.139
+Found cached result
+814: hnswlib ({'M': 36, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [224], 'reduction_type': 'random'}, 'efQuery': 120)        0.948      572.976
+Found cached result
+815: hnswlib ({'M': 36, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [224], 'reduction_type': 'random'}, 'efQuery': 200)        0.964      428.411
+Found cached result
+816: hnswlib ({'M': 48, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [224], 'reduction_type': 'random'}, 'efQuery': 10)        0.809     2242.170
+Found cached result
+817: hnswlib ({'M': 48, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [224], 'reduction_type': 'random'}, 'efQuery': 20)        0.875     1614.977
+Found cached result
+818: hnswlib ({'M': 48, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [224], 'reduction_type': 'random'}, 'efQuery': 40)        0.914     1048.012
+Found cached result
+819: hnswlib ({'M': 36, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [224], 'reduction_type': 'random'}, 'efQuery': 400)        0.981      230.536
+Found cached result
+820: hnswlib ({'M': 48, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [224], 'reduction_type': 'random'}, 'efQuery': 80)        0.944      654.856
+Found cached result
+821: hnswlib ({'M': 48, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [224], 'reduction_type': 'random'}, 'efQuery': 120)        0.957      441.520
+Found cached result
+822: hnswlib ({'M': 48, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [224], 'reduction_type': 'random'}, 'efQuery': 200)        0.972      285.884
+Found cached result
+823: hnswlib ({'M': 64, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [224], 'reduction_type': 'random'}, 'efQuery': 10)        0.830     2117.756
+Found cached result
+824: hnswlib ({'M': 36, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [224], 'reduction_type': 'random'}, 'efQuery': 600)        0.988      137.176
+Found cached result
+825: hnswlib ({'M': 64, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [224], 'reduction_type': 'random'}, 'efQuery': 20)        0.887     1448.130
+Found cached result
+826: hnswlib ({'M': 64, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [224], 'reduction_type': 'random'}, 'efQuery': 40)        0.925      896.068
+Found cached result
+827: hnswlib ({'M': 64, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [224], 'reduction_type': 'random'}, 'efQuery': 80)        0.952      505.556
+Found cached result
+828: hnswlib ({'M': 48, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [224], 'reduction_type': 'random'}, 'efQuery': 400)        0.987      156.296
+Found cached result
+829: hnswlib ({'M': 64, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [224], 'reduction_type': 'random'}, 'efQuery': 120)        0.964      353.612
+Found cached result
+830: hnswlib ({'M': 36, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [224], 'reduction_type': 'random'}, 'efQuery': 800)        0.992       99.497
+Found cached result
+831: hnswlib ({'M': 64, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [224], 'reduction_type': 'random'}, 'efQuery': 200)        0.978      224.581
+Found cached result
+832: hnswlib ({'M': 48, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [224], 'reduction_type': 'random'}, 'efQuery': 600)        0.992      112.049
+Found cached result
+833: hnswlib ({'M': 96, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [224], 'reduction_type': 'random'}, 'efQuery': 10)        0.850     1510.823
+Found cached result
+834: hnswlib ({'M': 96, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [224], 'reduction_type': 'random'}, 'efQuery': 20)        0.900     1025.697
+Found cached result
+835: hnswlib ({'M': 96, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [224], 'reduction_type': 'random'}, 'efQuery': 40)        0.935      629.243
+Found cached result
+836: hnswlib ({'M': 64, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [224], 'reduction_type': 'random'}, 'efQuery': 400)        0.990      116.751
+Found cached result
+837: hnswlib ({'M': 96, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [224], 'reduction_type': 'random'}, 'efQuery': 80)        0.961      364.827
+Found cached result
+838: hnswlib ({'M': 96, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [224], 'reduction_type': 'random'}, 'efQuery': 120)        0.972      441.229
+Found cached result
+839: hnswlib ({'M': 48, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [224], 'reduction_type': 'random'}, 'efQuery': 800)        0.995       82.311
+Found cached result
+840: hnswlib ({'M': 96, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [224], 'reduction_type': 'random'}, 'efQuery': 200)        0.985      290.866
+Found cached result
+841: hnswlib ({'M': 64, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [224], 'reduction_type': 'random'}, 'efQuery': 600)        0.995       81.745
+Found cached result
+842: hnswlib ({'M': 96, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [224], 'reduction_type': 'random'}, 'efQuery': 400)        0.994      155.077
+Found cached result
+843: hnswlib ({'M': 24, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [224], 'reduction_type': 'random'}, 'efQuery': 10)        0.724     5258.423
+Found cached result
+844: hnswlib ({'M': 24, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [224], 'reduction_type': 'random'}, 'efQuery': 20)        0.820     3881.966
+Found cached result
+845: hnswlib ({'M': 24, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [224], 'reduction_type': 'random'}, 'efQuery': 40)        0.879     2701.399
+Found cached result
+846: hnswlib ({'M': 24, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [224], 'reduction_type': 'random'}, 'efQuery': 80)        0.916     1721.079
+Found cached result
+847: hnswlib ({'M': 24, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [224], 'reduction_type': 'random'}, 'efQuery': 120)        0.932     1282.004
+Found cached result
+848: hnswlib ({'M': 24, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [224], 'reduction_type': 'random'}, 'efQuery': 200)        0.949      840.165
+Found cached result
+849: hnswlib ({'M': 24, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [224], 'reduction_type': 'random'}, 'efQuery': 400)        0.969      453.106
+Found cached result
+850: hnswlib ({'M': 96, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [224], 'reduction_type': 'random'}, 'efQuery': 600)        0.997      106.898
+Found cached result
+851: hnswlib ({'M': 24, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [224], 'reduction_type': 'random'}, 'efQuery': 600)        0.979      312.530
+Found cached result
+852: hnswlib ({'M': 64, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [224], 'reduction_type': 'random'}, 'efQuery': 800)        0.997       64.522
+Found cached result
+853: hnswlib ({'M': 24, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [224], 'reduction_type': 'random'}, 'efQuery': 800)        0.985      265.793
+Found cached result
+854: hnswlib ({'M': 96, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [224], 'reduction_type': 'random'}, 'efQuery': 800)        0.998       97.648
+Found cached result
+855: hnswlib ({'M': 48, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': False, 'reduction_threshold': 1, 'target_dims': [256], 'reduction_type': 'random'}, 'efQuery': 10)        0.810     3179.431
+Found cached result
+856: hnswlib ({'M': 48, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': False, 'reduction_threshold': 1, 'target_dims': [256], 'reduction_type': 'random'}, 'efQuery': 20)        0.874     2056.371
+Found cached result
+857: hnswlib ({'M': 48, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': False, 'reduction_threshold': 1, 'target_dims': [256], 'reduction_type': 'random'}, 'efQuery': 40)        0.914     1232.738
+Found cached result
+858: hnswlib ({'M': 48, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': False, 'reduction_threshold': 1, 'target_dims': [256], 'reduction_type': 'random'}, 'efQuery': 80)        0.943      693.304
+Found cached result
+859: hnswlib ({'M': 36, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': False, 'reduction_threshold': 1, 'target_dims': [256], 'reduction_type': 'random'}, 'efQuery': 10)        0.785     6307.267
+Found cached result
+860: hnswlib ({'M': 36, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': False, 'reduction_threshold': 1, 'target_dims': [256], 'reduction_type': 'random'}, 'efQuery': 20)        0.859     4095.476
+Found cached result
+861: hnswlib ({'M': 48, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': False, 'reduction_threshold': 1, 'target_dims': [256], 'reduction_type': 'random'}, 'efQuery': 120)        0.957      486.173
+Found cached result
+862: hnswlib ({'M': 36, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': False, 'reduction_threshold': 1, 'target_dims': [256], 'reduction_type': 'random'}, 'efQuery': 40)        0.903     2530.824
+Found cached result
+863: hnswlib ({'M': 36, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': False, 'reduction_threshold': 1, 'target_dims': [256], 'reduction_type': 'random'}, 'efQuery': 80)        0.934     1434.694
+Found cached result
+864: hnswlib ({'M': 36, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': False, 'reduction_threshold': 1, 'target_dims': [256], 'reduction_type': 'random'}, 'efQuery': 120)        0.948     1011.593
+Found cached result
+865: hnswlib ({'M': 48, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': False, 'reduction_threshold': 1, 'target_dims': [256], 'reduction_type': 'random'}, 'efQuery': 200)        0.971      301.115
+Found cached result
+866: hnswlib ({'M': 36, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': False, 'reduction_threshold': 1, 'target_dims': [256], 'reduction_type': 'random'}, 'efQuery': 200)        0.964      632.576
+Found cached result
+867: hnswlib ({'M': 64, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': False, 'reduction_threshold': 1, 'target_dims': [256], 'reduction_type': 'random'}, 'efQuery': 10)        0.829     2619.248
+Found cached result
+868: hnswlib ({'M': 64, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': False, 'reduction_threshold': 1, 'target_dims': [256], 'reduction_type': 'random'}, 'efQuery': 20)        0.887     1666.460
+Found cached result
+869: hnswlib ({'M': 36, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': False, 'reduction_threshold': 1, 'target_dims': [256], 'reduction_type': 'random'}, 'efQuery': 400)        0.981      339.726
+Found cached result
+870: hnswlib ({'M': 64, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': False, 'reduction_threshold': 1, 'target_dims': [256], 'reduction_type': 'random'}, 'efQuery': 40)        0.924      976.524
+Found cached result
+871: hnswlib ({'M': 64, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': False, 'reduction_threshold': 1, 'target_dims': [256], 'reduction_type': 'random'}, 'efQuery': 80)        0.952      538.550
+Found cached result
+872: hnswlib ({'M': 48, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': False, 'reduction_threshold': 1, 'target_dims': [256], 'reduction_type': 'random'}, 'efQuery': 400)        0.987      160.786
+Found cached result
+873: hnswlib ({'M': 36, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': False, 'reduction_threshold': 1, 'target_dims': [256], 'reduction_type': 'random'}, 'efQuery': 600)        0.989      223.502
+Found cached result
+874: hnswlib ({'M': 64, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': False, 'reduction_threshold': 1, 'target_dims': [256], 'reduction_type': 'random'}, 'efQuery': 120)        0.965      373.766
+Found cached result
+875: hnswlib ({'M': 64, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': False, 'reduction_threshold': 1, 'target_dims': [256], 'reduction_type': 'random'}, 'efQuery': 200)        0.978      232.631
+Found cached result
+876: hnswlib ({'M': 36, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': False, 'reduction_threshold': 1, 'target_dims': [256], 'reduction_type': 'random'}, 'efQuery': 800)        0.992      166.832
+Found cached result
+877: hnswlib ({'M': 48, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': False, 'reduction_threshold': 1, 'target_dims': [256], 'reduction_type': 'random'}, 'efQuery': 600)        0.992      106.148
+Found cached result
+878: hnswlib ({'M': 96, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': False, 'reduction_threshold': 1, 'target_dims': [256], 'reduction_type': 'random'}, 'efQuery': 10)        0.847     1937.996
+Found cached result
+879: hnswlib ({'M': 96, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': False, 'reduction_threshold': 1, 'target_dims': [256], 'reduction_type': 'random'}, 'efQuery': 20)        0.900     1219.823
+Found cached result
+880: hnswlib ({'M': 96, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': False, 'reduction_threshold': 1, 'target_dims': [256], 'reduction_type': 'random'}, 'efQuery': 40)        0.936      714.901
+Found cached result
+881: hnswlib ({'M': 64, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': False, 'reduction_threshold': 1, 'target_dims': [256], 'reduction_type': 'random'}, 'efQuery': 400)        0.990      131.079
+Found cached result
+882: hnswlib ({'M': 96, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': False, 'reduction_threshold': 1, 'target_dims': [256], 'reduction_type': 'random'}, 'efQuery': 80)        0.961      408.084
+Found cached result
+883: hnswlib ({'M': 96, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': False, 'reduction_threshold': 1, 'target_dims': [256], 'reduction_type': 'random'}, 'efQuery': 120)        0.972      269.004
+Found cached result
+884: hnswlib ({'M': 48, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': False, 'reduction_threshold': 1, 'target_dims': [256], 'reduction_type': 'random'}, 'efQuery': 800)        0.995       88.236
+Found cached result
+885: hnswlib ({'M': 96, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': False, 'reduction_threshold': 1, 'target_dims': [256], 'reduction_type': 'random'}, 'efQuery': 200)        0.984      174.805
+Found cached result
+886: hnswlib ({'M': 64, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': False, 'reduction_threshold': 1, 'target_dims': [256], 'reduction_type': 'random'}, 'efQuery': 600)        0.995       82.977
+Found cached result
+887: hnswlib ({'M': 24, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': False, 'reduction_threshold': 1, 'target_dims': [256], 'reduction_type': 'random'}, 'efQuery': 10)        0.722     8590.546
+Found cached result
+888: hnswlib ({'M': 24, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': False, 'reduction_threshold': 1, 'target_dims': [256], 'reduction_type': 'random'}, 'efQuery': 20)        0.819     5622.287
+Found cached result
+889: hnswlib ({'M': 24, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': False, 'reduction_threshold': 1, 'target_dims': [256], 'reduction_type': 'random'}, 'efQuery': 40)        0.879     3481.687
+Found cached result
+890: hnswlib ({'M': 24, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': False, 'reduction_threshold': 1, 'target_dims': [256], 'reduction_type': 'random'}, 'efQuery': 80)        0.916     2056.065
+Found cached result
+891: hnswlib ({'M': 24, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': False, 'reduction_threshold': 1, 'target_dims': [256], 'reduction_type': 'random'}, 'efQuery': 120)        0.932     1457.930
+Found cached result
+892: hnswlib ({'M': 24, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': False, 'reduction_threshold': 1, 'target_dims': [256], 'reduction_type': 'random'}, 'efQuery': 200)        0.950      945.765
+Found cached result
+893: hnswlib ({'M': 24, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': False, 'reduction_threshold': 1, 'target_dims': [256], 'reduction_type': 'random'}, 'efQuery': 400)        0.969      488.255
+Found cached result
+894: hnswlib ({'M': 96, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': False, 'reduction_threshold': 1, 'target_dims': [256], 'reduction_type': 'random'}, 'efQuery': 400)        0.994       91.033
+Found cached result
+895: hnswlib ({'M': 24, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': False, 'reduction_threshold': 1, 'target_dims': [256], 'reduction_type': 'random'}, 'efQuery': 600)        0.979      324.487
+Found cached result
+896: hnswlib ({'M': 24, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': False, 'reduction_threshold': 1, 'target_dims': [256], 'reduction_type': 'random'}, 'efQuery': 800)        0.985      244.246
+Found cached result
+897: hnswlib ({'M': 64, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': False, 'reduction_threshold': 1, 'target_dims': [256], 'reduction_type': 'random'}, 'efQuery': 800)        0.997       61.737
+Found cached result
+898: hnswlib ({'M': 96, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': False, 'reduction_threshold': 1, 'target_dims': [256], 'reduction_type': 'random'}, 'efQuery': 600)        0.997      125.315
+Found cached result
+899: hnswlib ({'M': 96, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': False, 'reduction_threshold': 1, 'target_dims': [256], 'reduction_type': 'random'}, 'efQuery': 800)        0.998      101.636
+Found cached result
+900: hnswlib ({'M': 24, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [240], 'reduction_type': 'random'}, 'efQuery': 10)        0.727     4889.148
+Found cached result
+901: hnswlib ({'M': 24, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [240], 'reduction_type': 'random'}, 'efQuery': 20)        0.824     3710.454
+Found cached result
+902: hnswlib ({'M': 24, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [240], 'reduction_type': 'random'}, 'efQuery': 40)        0.881     2609.179
+Found cached result
+903: hnswlib ({'M': 24, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [240], 'reduction_type': 'random'}, 'efQuery': 80)        0.917     1668.983
+Found cached result
+904: hnswlib ({'M': 24, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [240], 'reduction_type': 'random'}, 'efQuery': 120)        0.932     1245.880
+Found cached result
+905: hnswlib ({'M': 24, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [240], 'reduction_type': 'random'}, 'efQuery': 200)        0.950      815.511
+Found cached result
+906: hnswlib ({'M': 24, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [240], 'reduction_type': 'random'}, 'efQuery': 400)        0.969      437.509
+Found cached result
+907: hnswlib ({'M': 24, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [240], 'reduction_type': 'random'}, 'efQuery': 600)        0.979      301.519
+Found cached result
+908: hnswlib ({'M': 24, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [240], 'reduction_type': 'random'}, 'efQuery': 800)        0.985      232.113
+Found cached result
+909: hnswlib ({'M': 48, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [240], 'reduction_type': 'random'}, 'efQuery': 10)        0.809     2289.132
+Found cached result
+910: hnswlib ({'M': 48, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [240], 'reduction_type': 'random'}, 'efQuery': 20)        0.874     1646.876
+Found cached result
+911: hnswlib ({'M': 48, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [240], 'reduction_type': 'random'}, 'efQuery': 40)        0.914     1068.370
+Found cached result
+912: hnswlib ({'M': 48, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [240], 'reduction_type': 'random'}, 'efQuery': 80)        0.944      744.528
+Found cached result
+913: hnswlib ({'M': 48, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [240], 'reduction_type': 'random'}, 'efQuery': 120)        0.957      480.861
+Found cached result
+914: hnswlib ({'M': 48, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [240], 'reduction_type': 'random'}, 'efQuery': 200)        0.971      301.094
+Found cached result
+915: hnswlib ({'M': 64, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [240], 'reduction_type': 'random'}, 'efQuery': 10)        0.830     2102.762
+Found cached result
+916: hnswlib ({'M': 64, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [240], 'reduction_type': 'random'}, 'efQuery': 20)        0.886     1459.079
+Found cached result
+917: hnswlib ({'M': 64, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [240], 'reduction_type': 'random'}, 'efQuery': 40)        0.925      900.284
+Found cached result
+918: hnswlib ({'M': 48, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [240], 'reduction_type': 'random'}, 'efQuery': 400)        0.987      161.066
+Found cached result
+919: hnswlib ({'M': 64, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [240], 'reduction_type': 'random'}, 'efQuery': 80)        0.952      506.357
+Found cached result
+920: hnswlib ({'M': 64, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [240], 'reduction_type': 'random'}, 'efQuery': 120)        0.964      355.210
+Found cached result
+921: hnswlib ({'M': 64, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [240], 'reduction_type': 'random'}, 'efQuery': 200)        0.978      222.873
+Found cached result
+922: hnswlib ({'M': 48, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [240], 'reduction_type': 'random'}, 'efQuery': 600)        0.992      107.437
+Found cached result
+923: hnswlib ({'M': 96, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [240], 'reduction_type': 'random'}, 'efQuery': 10)        0.850     1535.486
+Found cached result
+924: hnswlib ({'M': 96, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [240], 'reduction_type': 'random'}, 'efQuery': 20)        0.900     1062.391
+Found cached result
+925: hnswlib ({'M': 96, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [240], 'reduction_type': 'random'}, 'efQuery': 40)        0.936      646.391
+Found cached result
+926: hnswlib ({'M': 96, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [240], 'reduction_type': 'random'}, 'efQuery': 80)        0.961      372.095
+Found cached result
+927: hnswlib ({'M': 64, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [240], 'reduction_type': 'random'}, 'efQuery': 400)        0.990      117.607
+Found cached result
+928: hnswlib ({'M': 96, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [240], 'reduction_type': 'random'}, 'efQuery': 120)        0.972      268.071
+Found cached result
+929: hnswlib ({'M': 48, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [240], 'reduction_type': 'random'}, 'efQuery': 800)        0.995       82.522
+Found cached result
+930: hnswlib ({'M': 36, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [240], 'reduction_type': 'random'}, 'efQuery': 10)        0.785     4221.589
+Found cached result
+931: hnswlib ({'M': 36, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [240], 'reduction_type': 'random'}, 'efQuery': 20)        0.858     3126.495
+Found cached result
+932: hnswlib ({'M': 96, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [240], 'reduction_type': 'random'}, 'efQuery': 200)        0.985      172.543
+Found cached result
+933: hnswlib ({'M': 36, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [240], 'reduction_type': 'random'}, 'efQuery': 40)        0.904     2126.409
+Found cached result
+934: hnswlib ({'M': 36, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [240], 'reduction_type': 'random'}, 'efQuery': 80)        0.934     1316.408
+Found cached result
+935: hnswlib ({'M': 64, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [240], 'reduction_type': 'random'}, 'efQuery': 600)        0.995       81.035
+Found cached result
+936: hnswlib ({'M': 36, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [240], 'reduction_type': 'random'}, 'efQuery': 120)        0.948      959.277
+Found cached result
+937: hnswlib ({'M': 36, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [240], 'reduction_type': 'random'}, 'efQuery': 200)        0.964      619.957
+Found cached result
+938: hnswlib ({'M': 36, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [240], 'reduction_type': 'random'}, 'efQuery': 400)        0.981      334.648
+Found cached result
+939: hnswlib ({'M': 96, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [240], 'reduction_type': 'random'}, 'efQuery': 400)        0.994       91.033
+Found cached result
+940: hnswlib ({'M': 36, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [240], 'reduction_type': 'random'}, 'efQuery': 600)        0.988      225.337
+Found cached result
+941: hnswlib ({'M': 36, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [240], 'reduction_type': 'random'}, 'efQuery': 800)        0.992      177.099
+Found cached result
+942: hnswlib ({'M': 64, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [240], 'reduction_type': 'random'}, 'efQuery': 800)        0.997       63.387
+Found cached result
+943: hnswlib ({'M': 96, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [240], 'reduction_type': 'random'}, 'efQuery': 600)        0.997      125.624
+Found cached result
+944: hnswlib ({'M': 96, 'efConstruction': 500, 'alpha': 1.0, 'use_dim_reduction': True, 'reduction_threshold': 1, 'target_dims': [240], 'reduction_type': 'random'}, 'efQuery': 800)        0.998      102.585
+Adjusting y-axis limits based on visible data: (-326.996, 9015.191)

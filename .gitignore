@@ -1,0 +1,37 @@
+# Ignore large results directories
+ann-benchmarks-16vCPU/results/
+ann-benchmarks-16vCPU/results_temp/
+ann-benchmarks-64vCPU/results/
+ann-benchmarks-64vCPU/results_temp/
+ann-benchmarks-64vCPU/temp_gnuplot_data/
+
+# Ignore data directories that might contain large files
+ann-benchmarks-64vCPU/data/*.hdf5
+ann-benchmarks-64vCPU/logs/
+
+# Build artifacts
+**/build/
+**/dist/
+**/*.egg-info/
+**/*.so
+**/*.o
+**/__pycache__/
+**/tmp/
+
+# Ignore common files
+.DS_Store
+*.log
+*.pyc
+**/__pycache__/
+
+# Ignore virtual environments
+venv/
+env/
+**/.venv/
+
+# Ignore benchmark logs and results
+**/benchmark_output*.log
+**/annb.log
+
+# Docker build files
+**/.dockerignore
