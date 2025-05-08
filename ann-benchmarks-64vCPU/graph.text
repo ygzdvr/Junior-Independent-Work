@@ -1,0 +1,1621 @@
+writing output to results/glove-25-angular.pdf
+Was unable to read angular_M_36_alpha_1_25_efConstruction_500_800.hdf5
+Was unable to read angular_M_36_alpha_1_25_efConstruction_500_800.hdf5
+Found cached result
+  0:                         hnswlib ({'M': 4, 'efConstruction': 500}, 'efQuery': 10)        0.119    14321.160
+Found cached result
+  1:                         hnswlib ({'M': 4, 'efConstruction': 500}, 'efQuery': 20)        0.104    10071.574
+Found cached result
+  2:                         hnswlib ({'M': 4, 'efConstruction': 500}, 'efQuery': 40)        0.096     6330.041
+Found cached result
+  3:                         hnswlib ({'M': 4, 'efConstruction': 500}, 'efQuery': 80)        0.092     4105.619
+Found cached result
+  4:                        hnswlib ({'M': 4, 'efConstruction': 500}, 'efQuery': 120)        0.090     2969.561
+Found cached result
+  5:                        hnswlib ({'M': 4, 'efConstruction': 500}, 'efQuery': 200)        0.089     1983.058
+Found cached result
+  6:                        hnswlib ({'M': 4, 'efConstruction': 500}, 'efQuery': 400)        0.087     1104.202
+Found cached result
+  7:                        hnswlib ({'M': 4, 'efConstruction': 500}, 'efQuery': 600)        0.087      747.262
+Found cached result
+  8:                         hnswlib ({'M': 8, 'efConstruction': 500}, 'efQuery': 10)        0.107    12633.697
+Found cached result
+  9:                         hnswlib ({'M': 8, 'efConstruction': 500}, 'efQuery': 20)        0.102     8008.309
+Found cached result
+ 10:                        hnswlib ({'M': 4, 'efConstruction': 500}, 'efQuery': 800)        0.087      571.136
+Found cached result
+ 11:                         hnswlib ({'M': 8, 'efConstruction': 500}, 'efQuery': 40)        0.099     4967.830
+Found cached result
+ 12:                         hnswlib ({'M': 8, 'efConstruction': 500}, 'efQuery': 80)        0.097     3152.298
+Found cached result
+ 13:                        hnswlib ({'M': 8, 'efConstruction': 500}, 'efQuery': 120)        0.096     2226.858
+Found cached result
+ 14:                        hnswlib ({'M': 8, 'efConstruction': 500}, 'efQuery': 200)        0.095     1416.004
+Found cached result
+ 15:                        hnswlib ({'M': 8, 'efConstruction': 500}, 'efQuery': 400)        0.095      752.771
+Found cached result
+ 16:                        hnswlib ({'M': 8, 'efConstruction': 500}, 'efQuery': 600)        0.094      521.772
+Found cached result
+ 17:                        hnswlib ({'M': 12, 'efConstruction': 500}, 'efQuery': 10)        0.101     8777.043
+Found cached result
+ 18:                        hnswlib ({'M': 12, 'efConstruction': 500}, 'efQuery': 20)        0.097     6234.970
+Found cached result
+ 19:                        hnswlib ({'M': 12, 'efConstruction': 500}, 'efQuery': 40)        0.095     4406.555
+Found cached result
+ 20:                        hnswlib ({'M': 8, 'efConstruction': 500}, 'efQuery': 800)        0.094      407.642
+Found cached result
+ 21:                        hnswlib ({'M': 12, 'efConstruction': 500}, 'efQuery': 80)        0.094     2345.111
+Found cached result
+ 22:                       hnswlib ({'M': 12, 'efConstruction': 500}, 'efQuery': 120)        0.093     1712.446
+Found cached result
+ 23:                       hnswlib ({'M': 12, 'efConstruction': 500}, 'efQuery': 200)        0.092     1096.488
+Found cached result
+ 24:                       hnswlib ({'M': 12, 'efConstruction': 500}, 'efQuery': 400)        0.092      581.211
+Found cached result
+ 25:                        hnswlib ({'M': 16, 'efConstruction': 500}, 'efQuery': 10)        0.102     7811.060
+Found cached result
+ 26:                        hnswlib ({'M': 16, 'efConstruction': 500}, 'efQuery': 20)        0.098     5489.875
+Found cached result
+ 27:                        hnswlib ({'M': 16, 'efConstruction': 500}, 'efQuery': 40)        0.096     3516.563
+Found cached result
+ 28:                       hnswlib ({'M': 12, 'efConstruction': 500}, 'efQuery': 600)        0.092      408.498
+Found cached result
+ 29:                        hnswlib ({'M': 16, 'efConstruction': 500}, 'efQuery': 80)        0.095     1881.928
+Found cached result
+ 30:                       hnswlib ({'M': 16, 'efConstruction': 500}, 'efQuery': 120)        0.095     1452.613
+Found cached result
+ 31:                       hnswlib ({'M': 16, 'efConstruction': 500}, 'efQuery': 200)        0.094      898.082
+Found cached result
+ 32:                       hnswlib ({'M': 12, 'efConstruction': 500}, 'efQuery': 800)        0.092      317.479
+Found cached result
+ 33:                       hnswlib ({'M': 16, 'efConstruction': 500}, 'efQuery': 400)        0.094      489.241
+Found cached result
+ 34:                        hnswlib ({'M': 24, 'efConstruction': 500}, 'efQuery': 10)        0.089     9954.954
+Found cached result
+ 35:                        hnswlib ({'M': 24, 'efConstruction': 500}, 'efQuery': 20)        0.087     6566.364
+Found cached result
+ 36:                        hnswlib ({'M': 24, 'efConstruction': 500}, 'efQuery': 40)        0.086     4169.060
+Found cached result
+ 37:                        hnswlib ({'M': 24, 'efConstruction': 500}, 'efQuery': 80)        0.086     2361.698
+Found cached result
+ 38:                       hnswlib ({'M': 24, 'efConstruction': 500}, 'efQuery': 120)        0.086     1674.192
+Found cached result
+ 39:                       hnswlib ({'M': 16, 'efConstruction': 500}, 'efQuery': 600)        0.094      348.288
+Found cached result
+ 40:                       hnswlib ({'M': 24, 'efConstruction': 500}, 'efQuery': 200)        0.085     1108.854
+Found cached result
+ 41:                       hnswlib ({'M': 24, 'efConstruction': 500}, 'efQuery': 400)        0.085      599.767
+Found cached result
+ 42:                       hnswlib ({'M': 16, 'efConstruction': 500}, 'efQuery': 800)        0.093      268.249
+Found cached result
+ 43:                       hnswlib ({'M': 24, 'efConstruction': 500}, 'efQuery': 600)        0.085      424.999
+Found cached result
+ 44:                        hnswlib ({'M': 36, 'efConstruction': 500}, 'efQuery': 10)        0.098     8832.153
+Found cached result
+ 45:                        hnswlib ({'M': 36, 'efConstruction': 500}, 'efQuery': 20)        0.096     5862.120
+Found cached result
+ 46:                        hnswlib ({'M': 36, 'efConstruction': 500}, 'efQuery': 40)        0.094     3698.226
+Found cached result
+ 47:                       hnswlib ({'M': 24, 'efConstruction': 500}, 'efQuery': 800)        0.085      331.022
+Found cached result
+ 48:                        hnswlib ({'M': 36, 'efConstruction': 500}, 'efQuery': 80)        0.093     2100.393
+Found cached result
+ 49:                       hnswlib ({'M': 36, 'efConstruction': 500}, 'efQuery': 120)        0.093     1537.509
+Found cached result
+ 50:                       hnswlib ({'M': 36, 'efConstruction': 500}, 'efQuery': 200)        0.093      989.552
+Found cached result
+ 51:                       hnswlib ({'M': 36, 'efConstruction': 500}, 'efQuery': 400)        0.092      558.785
+Found cached result
+ 52:                       hnswlib ({'M': 36, 'efConstruction': 500}, 'efQuery': 600)        0.092      394.803
+Found cached result
+ 53:                        hnswlib ({'M': 64, 'efConstruction': 500}, 'efQuery': 10)        0.088    13860.006
+Found cached result
+ 54:                        hnswlib ({'M': 64, 'efConstruction': 500}, 'efQuery': 20)        0.087     9549.090
+Found cached result
+ 55:                        hnswlib ({'M': 64, 'efConstruction': 500}, 'efQuery': 40)        0.086     5871.759
+Found cached result
+ 56:                        hnswlib ({'M': 64, 'efConstruction': 500}, 'efQuery': 80)        0.085     3387.390
+Found cached result
+ 57:                       hnswlib ({'M': 64, 'efConstruction': 500}, 'efQuery': 120)        0.085     2436.776
+Found cached result
+ 58:                       hnswlib ({'M': 36, 'efConstruction': 500}, 'efQuery': 800)        0.092      308.877
+Found cached result
+ 59:                       hnswlib ({'M': 64, 'efConstruction': 500}, 'efQuery': 200)        0.085     1594.982
+Found cached result
+ 60:                       hnswlib ({'M': 64, 'efConstruction': 500}, 'efQuery': 400)        0.085      882.753
+Found cached result
+ 61:                       hnswlib ({'M': 64, 'efConstruction': 500}, 'efQuery': 600)        0.085      621.097
+Found cached result
+ 62:                       hnswlib ({'M': 64, 'efConstruction': 500}, 'efQuery': 800)        0.085      482.171
+Found cached result
+ 63:                        hnswlib ({'M': 48, 'efConstruction': 500}, 'efQuery': 10)        0.088     4726.990
+Found cached result
+ 64:                        hnswlib ({'M': 48, 'efConstruction': 500}, 'efQuery': 20)        0.087     3278.658
+Found cached result
+ 65:                        hnswlib ({'M': 48, 'efConstruction': 500}, 'efQuery': 40)        0.086     1953.656
+Found cached result
+ 66:                        hnswlib ({'M': 48, 'efConstruction': 500}, 'efQuery': 80)        0.085     1086.118
+Found cached result
+ 67:                       hnswlib ({'M': 48, 'efConstruction': 500}, 'efQuery': 120)        0.085      782.996
+Found cached result
+ 68:                       hnswlib ({'M': 48, 'efConstruction': 500}, 'efQuery': 200)        0.085      506.766
+Found cached result
+ 69:                       hnswlib ({'M': 48, 'efConstruction': 500}, 'efQuery': 400)        0.085      349.271
+Found cached result
+ 70:                        hnswlib ({'M': 96, 'efConstruction': 500}, 'efQuery': 10)        0.095     6722.030
+Found cached result
+ 71:                        hnswlib ({'M': 96, 'efConstruction': 500}, 'efQuery': 20)        0.093     4527.871
+Found cached result
+ 72:                        hnswlib ({'M': 96, 'efConstruction': 500}, 'efQuery': 40)        0.092     2690.796
+Found cached result
+ 73:                       hnswlib ({'M': 48, 'efConstruction': 500}, 'efQuery': 600)        0.085      441.924
+Found cached result
+ 74:                        hnswlib ({'M': 96, 'efConstruction': 500}, 'efQuery': 80)        0.091     1530.277
+Found cached result
+ 75:                       hnswlib ({'M': 96, 'efConstruction': 500}, 'efQuery': 120)        0.091     1143.263
+Found cached result
+ 76:                       hnswlib ({'M': 48, 'efConstruction': 500}, 'efQuery': 800)        0.085      531.584
+Found cached result
+ 77:                       hnswlib ({'M': 96, 'efConstruction': 500}, 'efQuery': 200)        0.091      779.696
+Found cached result
+ 78:                       hnswlib ({'M': 96, 'efConstruction': 500}, 'efQuery': 400)        0.091      468.819
+Found cached result
+ 79:                       hnswlib ({'M': 96, 'efConstruction': 500}, 'efQuery': 600)        0.091      348.529
+Found cached result
+ 80:                       hnswlib ({'M': 96, 'efConstruction': 500}, 'efQuery': 800)        0.091      272.693
+Found cached result
+ 81:                                  faiss ({'M': 4, 'efConstruction': 500}, ef: 10)        0.118     5602.907
+Found cached result
+ 82:                                  faiss ({'M': 4, 'efConstruction': 500}, ef: 20)        0.098     4052.597
+Found cached result
+ 83:                                  faiss ({'M': 4, 'efConstruction': 500}, ef: 40)        0.086     3334.041
+Found cached result
+ 84:                                  faiss ({'M': 4, 'efConstruction': 500}, ef: 80)        0.080     2331.068
+Found cached result
+ 85:                                 faiss ({'M': 4, 'efConstruction': 500}, ef: 120)        0.078     1824.380
+Found cached result
+ 86:                                 faiss ({'M': 4, 'efConstruction': 500}, ef: 200)        0.077     1218.440
+Found cached result
+ 87:                                 faiss ({'M': 4, 'efConstruction': 500}, ef: 400)        0.076      567.801
+Found cached result
+ 88:                                  faiss ({'M': 8, 'efConstruction': 500}, ef: 10)        0.088     4474.357
+Found cached result
+ 89:                                 faiss ({'M': 4, 'efConstruction': 500}, ef: 600)        0.076      351.633
+Found cached result
+ 90:                                  faiss ({'M': 8, 'efConstruction': 500}, ef: 20)        0.080     3394.643
+Found cached result
+ 91:                                  faiss ({'M': 8, 'efConstruction': 500}, ef: 40)        0.077     2572.393
+Found cached result
+ 92:                                  faiss ({'M': 8, 'efConstruction': 500}, ef: 80)        0.076     1845.620
+Found cached result
+ 93:                                 faiss ({'M': 8, 'efConstruction': 500}, ef: 120)        0.076     1409.553
+Found cached result
+ 94:                                 faiss ({'M': 4, 'efConstruction': 500}, ef: 800)        0.076      239.380
+Found cached result
+ 95:                                 faiss ({'M': 8, 'efConstruction': 500}, ef: 200)        0.075      927.106
+Found cached result
+ 96:                                 faiss ({'M': 12, 'efConstruction': 500}, ef: 10)        0.082     5558.347
+Found cached result
+ 97:                                 faiss ({'M': 12, 'efConstruction': 500}, ef: 20)        0.078     4463.027
+Found cached result
+ 98:                                 faiss ({'M': 8, 'efConstruction': 500}, ef: 400)        0.075      445.414
+Found cached result
+ 99:                                 faiss ({'M': 12, 'efConstruction': 500}, ef: 40)        0.076     3209.265
+Found cached result
+100:                                 faiss ({'M': 12, 'efConstruction': 500}, ef: 80)        0.075     2314.493
+Found cached result
+101:                                faiss ({'M': 12, 'efConstruction': 500}, ef: 120)        0.075     1655.440
+Found cached result
+102:                                faiss ({'M': 12, 'efConstruction': 500}, ef: 200)        0.075     1072.650
+Found cached result
+103:                                 faiss ({'M': 8, 'efConstruction': 500}, ef: 600)        0.075      287.110
+Found cached result
+104:                                faiss ({'M': 12, 'efConstruction': 500}, ef: 400)        0.075      564.621
+Found cached result
+105:                                 faiss ({'M': 16, 'efConstruction': 500}, ef: 10)        0.080     6015.625
+Found cached result
+106:                                 faiss ({'M': 16, 'efConstruction': 500}, ef: 20)        0.077     4708.778
+Found cached result
+107:                                faiss ({'M': 12, 'efConstruction': 500}, ef: 600)        0.075      361.308
+Found cached result
+108:                                 faiss ({'M': 8, 'efConstruction': 500}, ef: 800)        0.075      198.667
+Found cached result
+109:                                 faiss ({'M': 16, 'efConstruction': 500}, ef: 40)        0.076     2953.457
+Found cached result
+110:                                 faiss ({'M': 16, 'efConstruction': 500}, ef: 80)        0.075     2053.268
+Found cached result
+111:                                faiss ({'M': 12, 'efConstruction': 500}, ef: 800)        0.075      535.681
+Found cached result
+112:                                faiss ({'M': 16, 'efConstruction': 500}, ef: 120)        0.075     1534.311
+Found cached result
+113:                                faiss ({'M': 16, 'efConstruction': 500}, ef: 200)        0.075     1011.987
+Found cached result
+114:                                 faiss ({'M': 64, 'efConstruction': 500}, ef: 10)        0.078     4114.514
+Found cached result
+115:                                faiss ({'M': 16, 'efConstruction': 500}, ef: 400)        0.075      511.669
+Found cached result
+116:                                 faiss ({'M': 64, 'efConstruction': 500}, ef: 20)        0.076     3232.634
+Found cached result
+117:                                 faiss ({'M': 64, 'efConstruction': 500}, ef: 40)        0.075     2231.217
+Found cached result
+118:                                 faiss ({'M': 64, 'efConstruction': 500}, ef: 80)        0.075     1423.995
+Found cached result
+119:                                 faiss ({'M': 24, 'efConstruction': 500}, ef: 10)        0.079     3663.393
+Found cached result
+120:                                faiss ({'M': 16, 'efConstruction': 500}, ef: 600)        0.075      336.436
+Found cached result
+121:                                 faiss ({'M': 24, 'efConstruction': 500}, ef: 20)        0.076     2651.290
+Found cached result
+122:                                faiss ({'M': 64, 'efConstruction': 500}, ef: 120)        0.075     1034.670
+Found cached result
+123:                                 faiss ({'M': 48, 'efConstruction': 500}, ef: 10)        0.078     4431.504
+Found cached result
+124:                                 faiss ({'M': 24, 'efConstruction': 500}, ef: 40)        0.075     1807.400
+Found cached result
+125:                                 faiss ({'M': 48, 'efConstruction': 500}, ef: 20)        0.076     3485.196
+Found cached result
+126:                                faiss ({'M': 64, 'efConstruction': 500}, ef: 200)        0.075      697.197
+Found cached result
+127:                                 faiss ({'M': 48, 'efConstruction': 500}, ef: 40)        0.075     2369.824
+Found cached result
+128:                                 faiss ({'M': 24, 'efConstruction': 500}, ef: 80)        0.075     1237.140
+Found cached result
+129:                                 faiss ({'M': 36, 'efConstruction': 500}, ef: 10)        0.078     4161.082
+Found cached result
+130:                                 faiss ({'M': 48, 'efConstruction': 500}, ef: 80)        0.075     1494.316
+Found cached result
+131:                                faiss ({'M': 16, 'efConstruction': 500}, ef: 800)        0.075      245.365
+Found cached result
+132:                                 faiss ({'M': 36, 'efConstruction': 500}, ef: 20)        0.076     2758.351
+Found cached result
+133:                                faiss ({'M': 24, 'efConstruction': 500}, ef: 120)        0.075      857.810
+Found cached result
+134:                                faiss ({'M': 48, 'efConstruction': 500}, ef: 120)        0.075     1111.021
+Found cached result
+135:                                faiss ({'M': 64, 'efConstruction': 500}, ef: 400)        0.075      375.605
+Found cached result
+136:                                 faiss ({'M': 36, 'efConstruction': 500}, ef: 40)        0.075     1910.128
+Found cached result
+137:                                faiss ({'M': 48, 'efConstruction': 500}, ef: 200)        0.075      727.122
+Found cached result
+138:                                faiss ({'M': 24, 'efConstruction': 500}, ef: 200)        0.075      588.044
+Found cached result
+139:                                 faiss ({'M': 36, 'efConstruction': 500}, ef: 80)        0.075     1080.639
+Found cached result
+140:                                 faiss ({'M': 96, 'efConstruction': 500}, ef: 10)        0.077     4391.638
+Found cached result
+141:                                 faiss ({'M': 96, 'efConstruction': 500}, ef: 20)        0.076     3117.564
+Found cached result
+142:                                faiss ({'M': 36, 'efConstruction': 500}, ef: 120)        0.075      837.706
+Found cached result
+143:                                faiss ({'M': 64, 'efConstruction': 500}, ef: 600)        0.075      251.031
+Found cached result
+144:                                faiss ({'M': 48, 'efConstruction': 500}, ef: 400)        0.075      391.479
+Found cached result
+145:                                 faiss ({'M': 96, 'efConstruction': 500}, ef: 40)        0.075     2102.663
+Found cached result
+146:                                faiss ({'M': 24, 'efConstruction': 500}, ef: 400)        0.075      303.918
+Found cached result
+147:                                 faiss ({'M': 96, 'efConstruction': 500}, ef: 80)        0.075     1353.410
+Found cached result
+148:                                faiss ({'M': 36, 'efConstruction': 500}, ef: 200)        0.075      540.276
+Found cached result
+149:                                faiss ({'M': 96, 'efConstruction': 500}, ef: 120)        0.075      996.816
+Found cached result
+150:                                faiss ({'M': 48, 'efConstruction': 500}, ef: 600)        0.075      259.957
+Found cached result
+151:                                faiss ({'M': 96, 'efConstruction': 500}, ef: 200)        0.075      653.944
+Found cached result
+152:                                faiss ({'M': 64, 'efConstruction': 500}, ef: 800)        0.075      185.067
+Found cached result
+153:                                faiss ({'M': 36, 'efConstruction': 500}, ef: 400)        0.075      277.541
+Found cached result
+154:                                faiss ({'M': 24, 'efConstruction': 500}, ef: 600)        0.075      197.324
+Found cached result
+155:                                faiss ({'M': 96, 'efConstruction': 500}, ef: 400)        0.075      356.914
+Found cached result
+156:                                faiss ({'M': 48, 'efConstruction': 500}, ef: 800)        0.075      193.460
+Found cached result
+157:                                faiss ({'M': 96, 'efConstruction': 500}, ef: 600)        0.075      240.476
+Found cached result
+158:                                faiss ({'M': 36, 'efConstruction': 500}, ef: 600)        0.075      178.427
+Found cached result
+159:                                faiss ({'M': 24, 'efConstruction': 500}, ef: 800)        0.075      146.092
+Found cached result
+160:                                faiss ({'M': 96, 'efConstruction': 500}, ef: 800)        0.075      178.344
+Found cached result
+161:                                faiss ({'M': 36, 'efConstruction': 500}, ef: 800)        0.075      201.181
+Found cached result
+162:                              VespaHnsw ({'M': 4, 'efConstruction': 500}, ef: 10)          inf    13157.280
+Found cached result
+163:                              VespaHnsw ({'M': 4, 'efConstruction': 500}, ef: 20)          inf     6739.450
+Found cached result
+164:                              VespaHnsw ({'M': 4, 'efConstruction': 500}, ef: 40)          inf     4363.701
+Found cached result
+165:                              VespaHnsw ({'M': 4, 'efConstruction': 500}, ef: 80)          inf     2568.602
+Found cached result
+166:                             VespaHnsw ({'M': 4, 'efConstruction': 500}, ef: 120)          inf     1781.853
+Found cached result
+167:                             VespaHnsw ({'M': 4, 'efConstruction': 500}, ef: 200)          inf     1184.483
+Found cached result
+168:                             VespaHnsw ({'M': 4, 'efConstruction': 500}, ef: 400)          inf      610.091
+Found cached result
+169:                              VespaHnsw ({'M': 8, 'efConstruction': 500}, ef: 10)        0.084    11052.033
+Found cached result
+170:                              VespaHnsw ({'M': 8, 'efConstruction': 500}, ef: 20)        0.080     7596.055
+Found cached result
+171:                              VespaHnsw ({'M': 8, 'efConstruction': 500}, ef: 40)        0.077     4332.522
+Found cached result
+172:                             VespaHnsw ({'M': 4, 'efConstruction': 500}, ef: 600)          inf      436.050
+Found cached result
+173:                              VespaHnsw ({'M': 8, 'efConstruction': 500}, ef: 80)        0.076     2630.137
+Found cached result
+174:                             VespaHnsw ({'M': 8, 'efConstruction': 500}, ef: 120)        0.076     1831.143
+Found cached result
+175:                             VespaHnsw ({'M': 8, 'efConstruction': 500}, ef: 200)        0.075     1180.762
+Found cached result
+176:                             VespaHnsw ({'M': 4, 'efConstruction': 500}, ef: 800)          inf      322.524
+Found cached result
+177:                             VespaHnsw ({'M': 8, 'efConstruction': 500}, ef: 400)        0.075      629.135
+Found cached result
+178:                             VespaHnsw ({'M': 8, 'efConstruction': 500}, ef: 600)        0.075      473.597
+Found cached result
+179:                             VespaHnsw ({'M': 12, 'efConstruction': 500}, ef: 10)        0.080     8823.772
+Found cached result
+180:                             VespaHnsw ({'M': 12, 'efConstruction': 500}, ef: 20)        0.078     5917.542
+Found cached result
+181:                             VespaHnsw ({'M': 12, 'efConstruction': 500}, ef: 40)        0.076     3567.285
+Found cached result
+182:                             VespaHnsw ({'M': 12, 'efConstruction': 500}, ef: 80)        0.076     2017.039
+Found cached result
+183:                            VespaHnsw ({'M': 12, 'efConstruction': 500}, ef: 120)        0.075     1478.746
+Found cached result
+184:                             VespaHnsw ({'M': 8, 'efConstruction': 500}, ef: 800)        0.075      368.179
+Found cached result
+185:                            VespaHnsw ({'M': 12, 'efConstruction': 500}, ef: 200)        0.075      930.404
+Found cached result
+186:                            VespaHnsw ({'M': 12, 'efConstruction': 500}, ef: 400)        0.075      555.954
+Found cached result
+187:                            VespaHnsw ({'M': 12, 'efConstruction': 500}, ef: 600)        0.075      392.205
+Found cached result
+188:                            VespaHnsw ({'M': 12, 'efConstruction': 500}, ef: 800)        0.075      635.538
+Found cached result
+189:                             VespaHnsw ({'M': 16, 'efConstruction': 500}, ef: 10)        0.079     6472.514
+Found cached result
+190:                             VespaHnsw ({'M': 16, 'efConstruction': 500}, ef: 20)        0.077     3678.029
+Found cached result
+191:                             VespaHnsw ({'M': 16, 'efConstruction': 500}, ef: 40)        0.076     2276.848
+Found cached result
+192:                             VespaHnsw ({'M': 16, 'efConstruction': 500}, ef: 80)        0.075     1265.586
+Found cached result
+193:                            VespaHnsw ({'M': 16, 'efConstruction': 500}, ef: 120)        0.075      843.618
+Found cached result
+194:                            VespaHnsw ({'M': 16, 'efConstruction': 500}, ef: 200)        0.075      522.818
+Found cached result
+195:                            VespaHnsw ({'M': 16, 'efConstruction': 500}, ef: 400)        0.075      321.301
+Found cached result
+196:                             VespaHnsw ({'M': 24, 'efConstruction': 500}, ef: 10)        0.078     6026.310
+Found cached result
+197:                             VespaHnsw ({'M': 24, 'efConstruction': 500}, ef: 20)        0.076     4062.113
+Found cached result
+198:                             VespaHnsw ({'M': 24, 'efConstruction': 500}, ef: 40)        0.075     2481.175
+Found cached result
+199:                             VespaHnsw ({'M': 24, 'efConstruction': 500}, ef: 80)        0.075     1307.897
+Found cached result
+200:                            VespaHnsw ({'M': 16, 'efConstruction': 500}, ef: 600)        0.075      219.925
+Found cached result
+201:                            VespaHnsw ({'M': 24, 'efConstruction': 500}, ef: 120)        0.075      964.599
+Found cached result
+202:                            VespaHnsw ({'M': 24, 'efConstruction': 500}, ef: 200)        0.075      678.343
+Found cached result
+203:                             VespaHnsw ({'M': 64, 'efConstruction': 500}, ef: 10)        0.077     8837.083
+Found cached result
+204:                             VespaHnsw ({'M': 36, 'efConstruction': 500}, ef: 10)        0.077    10300.376
+Found cached result
+205:                             VespaHnsw ({'M': 36, 'efConstruction': 500}, ef: 20)        0.076     6698.587
+Found cached result
+206:                             VespaHnsw ({'M': 64, 'efConstruction': 500}, ef: 20)        0.076     5748.427
+Found cached result
+207:                             VespaHnsw ({'M': 36, 'efConstruction': 500}, ef: 40)        0.075     4027.844
+Found cached result
+208:                             VespaHnsw ({'M': 64, 'efConstruction': 500}, ef: 40)        0.075     3439.834
+Found cached result
+209:                            VespaHnsw ({'M': 24, 'efConstruction': 500}, ef: 400)        0.075      380.867
+Found cached result
+210:                             VespaHnsw ({'M': 36, 'efConstruction': 500}, ef: 80)        0.075     2287.413
+Found cached result
+211:                             VespaHnsw ({'M': 64, 'efConstruction': 500}, ef: 80)        0.075     2113.340
+Found cached result
+212:                             VespaHnsw ({'M': 96, 'efConstruction': 500}, ef: 10)        0.076     8419.917
+Found cached result
+213:                            VespaHnsw ({'M': 36, 'efConstruction': 500}, ef: 120)        0.075     1637.487
+Found cached result
+214:                             VespaHnsw ({'M': 96, 'efConstruction': 500}, ef: 20)        0.076     5493.157
+Found cached result
+215:                            VespaHnsw ({'M': 64, 'efConstruction': 500}, ef: 120)        0.075     1527.748
+Found cached result
+216:                             VespaHnsw ({'M': 96, 'efConstruction': 500}, ef: 40)        0.075     3250.021
+Found cached result
+217:                            VespaHnsw ({'M': 16, 'efConstruction': 500}, ef: 800)        0.075      174.784
+Found cached result
+218:                            VespaHnsw ({'M': 36, 'efConstruction': 500}, ef: 200)        0.075     1183.617
+Found cached result
+219:                             VespaHnsw ({'M': 96, 'efConstruction': 500}, ef: 80)        0.075     2032.424
+Found cached result
+220:                            VespaHnsw ({'M': 64, 'efConstruction': 500}, ef: 200)        0.075     1004.301
+Found cached result
+221:                            VespaHnsw ({'M': 96, 'efConstruction': 500}, ef: 120)        0.075     1438.878
+Found cached result
+222:                            VespaHnsw ({'M': 36, 'efConstruction': 500}, ef: 400)        0.075      661.555
+Found cached result
+223:                            VespaHnsw ({'M': 96, 'efConstruction': 500}, ef: 200)        0.075      965.279
+Found cached result
+224:                            VespaHnsw ({'M': 64, 'efConstruction': 500}, ef: 400)        0.075      570.756
+Found cached result
+225:                            VespaHnsw ({'M': 24, 'efConstruction': 500}, ef: 600)        0.075      267.693
+Found cached result
+226:                            VespaHnsw ({'M': 36, 'efConstruction': 500}, ef: 600)        0.075      473.040
+Found cached result
+227:                            VespaHnsw ({'M': 96, 'efConstruction': 500}, ef: 400)        0.075      542.530
+Found cached result
+228:                            VespaHnsw ({'M': 24, 'efConstruction': 500}, ef: 800)        0.075      442.970
+Found cached result
+229:                            VespaHnsw ({'M': 64, 'efConstruction': 500}, ef: 600)        0.075      414.012
+Found cached result
+230:                            VespaHnsw ({'M': 36, 'efConstruction': 500}, ef: 800)        0.075      394.777
+Found cached result
+231:                            VespaHnsw ({'M': 96, 'efConstruction': 500}, ef: 600)        0.075      417.999
+Found cached result
+232:                            VespaHnsw ({'M': 64, 'efConstruction': 500}, ef: 800)        0.075      371.668
+Found cached result
+233:                            VespaHnsw ({'M': 96, 'efConstruction': 500}, ef: 800)        0.075      363.946
+Found cached result
+234:                             VespaHnsw ({'M': 48, 'efConstruction': 500}, ef: 10)        0.077    13620.112
+Found cached result
+235:                             VespaHnsw ({'M': 48, 'efConstruction': 500}, ef: 20)        0.076     8486.168
+Found cached result
+236:                             VespaHnsw ({'M': 48, 'efConstruction': 500}, ef: 40)        0.075     4995.051
+Found cached result
+237:                             VespaHnsw ({'M': 48, 'efConstruction': 500}, ef: 80)        0.075     2794.012
+Found cached result
+238:                            VespaHnsw ({'M': 48, 'efConstruction': 500}, ef: 120)        0.075     2222.264
+Found cached result
+239:                            VespaHnsw ({'M': 48, 'efConstruction': 500}, ef: 200)        0.075     1448.999
+Found cached result
+240:                            VespaHnsw ({'M': 48, 'efConstruction': 500}, ef: 400)        0.075      812.392
+Found cached result
+241:                            VespaHnsw ({'M': 48, 'efConstruction': 500}, ef: 600)        0.075      578.238
+Found cached result
+242:                            VespaHnsw ({'M': 48, 'efConstruction': 500}, ef: 800)        0.075      453.764
+Found cached result
+243:               hnswlib reduction ({'M': 4, 'efConstruction': 500}, 'efQuery': 10)        0.105    42041.038
+Found cached result
+244:               hnswlib reduction ({'M': 4, 'efConstruction': 500}, 'efQuery': 20)        0.092    29305.160
+Found cached result
+245:               hnswlib reduction ({'M': 4, 'efConstruction': 500}, 'efQuery': 40)        0.084    19569.073
+Found cached result
+246:               hnswlib reduction ({'M': 4, 'efConstruction': 500}, 'efQuery': 80)        0.080    12347.773
+Found cached result
+247:              hnswlib reduction ({'M': 4, 'efConstruction': 500}, 'efQuery': 120)        0.078     9147.020
+Found cached result
+248:              hnswlib reduction ({'M': 4, 'efConstruction': 500}, 'efQuery': 200)        0.077     6042.015
+Found cached result
+249:              hnswlib reduction ({'M': 4, 'efConstruction': 500}, 'efQuery': 400)        0.076     3288.936
+Found cached result
+250:              hnswlib reduction ({'M': 4, 'efConstruction': 500}, 'efQuery': 600)        0.076     2265.639
+Found cached result
+251:              hnswlib reduction ({'M': 4, 'efConstruction': 500}, 'efQuery': 800)        0.076     1741.712
+Found cached result
+252: hnswlib reduction ({'M': 24, 'efConstruction': 500, 'useJL': True, 'jlTargetEps': 0.1, 'jlMinDim': 32}, 'efQuery': 10, 'useJL': True, 'jlTargetEps': 0.1, 'jlMinDim': 32)        0.078    17813.551
+Found cached result
+253:              hnswlib reduction ({'M': 24, 'efConstruction': 500}, 'efQuery': 10)        0.078    18211.535
+Found cached result
+254: hnswlib reduction ({'M': 24, 'efConstruction': 500, 'useJL': True, 'jlTargetEps': 0.1, 'jlMinDim': 32}, 'efQuery': 20, 'useJL': True, 'jlTargetEps': 0.1, 'jlMinDim': 32)        0.076    12719.938
+Found cached result
+255: hnswlib reduction ({'M': 24, 'efConstruction': 500, 'useJL': True, 'jlTargetEps': 0.2, 'jlMinDim': 32}, 'efQuery': 10, 'useJL': True, 'jlTargetEps': 0.2, 'jlMinDim': 32)        0.078    18390.505
+Found cached result
+256:              hnswlib reduction ({'M': 24, 'efConstruction': 500}, 'efQuery': 20)        0.076    12901.660
+Found cached result
+257: hnswlib reduction ({'M': 24, 'efConstruction': 500, 'useJL': True, 'jlTargetEps': 0.2, 'jlMinDim': 32}, 'efQuery': 20, 'useJL': True, 'jlTargetEps': 0.2, 'jlMinDim': 32)        0.076    12853.114
+Found cached result
+258: hnswlib reduction ({'M': 24, 'efConstruction': 500, 'useJL': True, 'jlTargetEps': 0.1, 'jlMinDim': 32}, 'efQuery': 40, 'useJL': True, 'jlTargetEps': 0.1, 'jlMinDim': 32)        0.075     8071.806
+Found cached result
+259:              hnswlib reduction ({'M': 24, 'efConstruction': 500}, 'efQuery': 40)        0.075     8030.269
+Found cached result
+260: hnswlib reduction ({'M': 24, 'efConstruction': 500, 'useJL': True, 'jlTargetEps': 0.2, 'jlMinDim': 32}, 'efQuery': 40, 'useJL': True, 'jlTargetEps': 0.2, 'jlMinDim': 32)        0.075     8089.262
+Found cached result
+261: hnswlib reduction ({'M': 24, 'efConstruction': 500, 'useJL': True, 'jlTargetEps': 0.1, 'jlMinDim': 32}, 'efQuery': 80, 'useJL': True, 'jlTargetEps': 0.1, 'jlMinDim': 32)        0.075     4756.738
+Found cached result
+262:              hnswlib reduction ({'M': 24, 'efConstruction': 500}, 'efQuery': 80)        0.075     4723.301
+Found cached result
+263: hnswlib reduction ({'M': 24, 'efConstruction': 500, 'useJL': True, 'jlTargetEps': 0.2, 'jlMinDim': 32}, 'efQuery': 80, 'useJL': True, 'jlTargetEps': 0.2, 'jlMinDim': 32)        0.075     4737.932
+Found cached result
+264: hnswlib reduction ({'M': 24, 'efConstruction': 500, 'useJL': True, 'jlTargetEps': 0.1, 'jlMinDim': 32}, 'efQuery': 120, 'useJL': True, 'jlTargetEps': 0.1, 'jlMinDim': 32)        0.075     3384.059
+Found cached result
+265:             hnswlib reduction ({'M': 24, 'efConstruction': 500}, 'efQuery': 120)        0.075     3350.640
+Found cached result
+266: hnswlib reduction ({'M': 24, 'efConstruction': 500, 'useJL': True, 'jlTargetEps': 0.2, 'jlMinDim': 32}, 'efQuery': 120, 'useJL': True, 'jlTargetEps': 0.2, 'jlMinDim': 32)        0.075     3348.886
+Found cached result
+267: hnswlib reduction ({'M': 24, 'efConstruction': 500, 'useJL': True, 'jlTargetEps': 0.1, 'jlMinDim': 32}, 'efQuery': 200, 'useJL': True, 'jlTargetEps': 0.1, 'jlMinDim': 32)        0.075     2199.353
+Found cached result
+268:             hnswlib reduction ({'M': 24, 'efConstruction': 500}, 'efQuery': 200)        0.075     2176.570
+Found cached result
+269: hnswlib reduction ({'M': 24, 'efConstruction': 500, 'useJL': True, 'jlTargetEps': 0.2, 'jlMinDim': 32}, 'efQuery': 200, 'useJL': True, 'jlTargetEps': 0.2, 'jlMinDim': 32)        0.075     2173.006
+Found cached result
+270: hnswlib reduction ({'M': 24, 'efConstruction': 500, 'useJL': True, 'jlTargetEps': 0.1, 'jlMinDim': 32}, 'efQuery': 400, 'useJL': True, 'jlTargetEps': 0.1, 'jlMinDim': 32)        0.075     1199.187
+Found cached result
+271:             hnswlib reduction ({'M': 24, 'efConstruction': 500}, 'efQuery': 400)        0.075     1185.656
+Found cached result
+272: hnswlib reduction ({'M': 24, 'efConstruction': 500, 'useJL': True, 'jlTargetEps': 0.2, 'jlMinDim': 32}, 'efQuery': 400, 'useJL': True, 'jlTargetEps': 0.2, 'jlMinDim': 32)        0.075     1184.917
+Found cached result
+273: hnswlib reduction ({'M': 24, 'efConstruction': 500, 'useJL': True, 'jlTargetEps': 0.1, 'jlMinDim': 32}, 'efQuery': 600, 'useJL': True, 'jlTargetEps': 0.1, 'jlMinDim': 32)        0.075      835.313
+Found cached result
+274:             hnswlib reduction ({'M': 24, 'efConstruction': 500}, 'efQuery': 600)        0.075      827.308
+Found cached result
+275: hnswlib reduction ({'M': 24, 'efConstruction': 500, 'useJL': True, 'jlTargetEps': 0.2, 'jlMinDim': 32}, 'efQuery': 600, 'useJL': True, 'jlTargetEps': 0.2, 'jlMinDim': 32)        0.075      824.827
+Found cached result
+276: hnswlib reduction ({'M': 24, 'efConstruction': 500, 'useJL': True, 'jlTargetEps': 0.1, 'jlMinDim': 32}, 'efQuery': 800, 'useJL': True, 'jlTargetEps': 0.1, 'jlMinDim': 32)        0.075      646.242
+Found cached result
+277: hnswlib reduction ({'M': 24, 'efConstruction': 500, 'useJL': True, 'jlTargetEps': 0.2, 'jlMinDim': 32}, 'efQuery': 800, 'useJL': True, 'jlTargetEps': 0.2, 'jlMinDim': 32)        0.075      641.618
+Found cached result
+278:             hnswlib reduction ({'M': 24, 'efConstruction': 500}, 'efQuery': 800)        0.075      642.797
+Found cached result
+279:              hnswlib reduction ({'M': 48, 'efConstruction': 500}, 'efQuery': 10)        0.077    13794.552
+Found cached result
+280:              hnswlib reduction ({'M': 48, 'efConstruction': 500}, 'efQuery': 20)        0.076     9384.482
+Found cached result
+281:              hnswlib reduction ({'M': 48, 'efConstruction': 500}, 'efQuery': 40)        0.075     5812.427
+Found cached result
+282:              hnswlib reduction ({'M': 48, 'efConstruction': 500}, 'efQuery': 80)        0.075     3369.472
+Found cached result
+283:             hnswlib reduction ({'M': 48, 'efConstruction': 500}, 'efQuery': 120)        0.075     2407.579
+Found cached result
+284:              hnswlib reduction ({'M': 64, 'efConstruction': 500}, 'efQuery': 10)        0.077    12598.689
+Found cached result
+285:             hnswlib reduction ({'M': 48, 'efConstruction': 500}, 'efQuery': 200)        0.075     1586.881
+Found cached result
+286:              hnswlib reduction ({'M': 64, 'efConstruction': 500}, 'efQuery': 20)        0.076     8578.382
+Found cached result
+287:              hnswlib reduction ({'M': 64, 'efConstruction': 500}, 'efQuery': 40)        0.075     5271.689
+Found cached result
+288:              hnswlib reduction ({'M': 64, 'efConstruction': 500}, 'efQuery': 80)        0.075     3054.715
+Found cached result
+289:             hnswlib reduction ({'M': 48, 'efConstruction': 500}, 'efQuery': 400)        0.075      876.448
+Found cached result
+290:             hnswlib reduction ({'M': 64, 'efConstruction': 500}, 'efQuery': 120)        0.075     2199.810
+Found cached result
+291:             hnswlib reduction ({'M': 64, 'efConstruction': 500}, 'efQuery': 200)        0.075     1439.745
+Found cached result
+292:             hnswlib reduction ({'M': 48, 'efConstruction': 500}, 'efQuery': 600)        0.075      615.587
+Found cached result
+293:               hnswlib reduction ({'M': 8, 'efConstruction': 500}, 'efQuery': 10)        0.084    17916.054
+Found cached result
+294:               hnswlib reduction ({'M': 8, 'efConstruction': 500}, 'efQuery': 20)        0.079    12758.196
+Found cached result
+295:             hnswlib reduction ({'M': 64, 'efConstruction': 500}, 'efQuery': 400)        0.075      799.042
+Found cached result
+296:               hnswlib reduction ({'M': 8, 'efConstruction': 500}, 'efQuery': 40)        0.077     9362.359
+Found cached result
+297:               hnswlib reduction ({'M': 8, 'efConstruction': 500}, 'efQuery': 80)        0.076     5094.883
+Found cached result
+298:              hnswlib reduction ({'M': 8, 'efConstruction': 500}, 'efQuery': 120)        0.076     3425.951
+Found cached result
+299:             hnswlib reduction ({'M': 48, 'efConstruction': 500}, 'efQuery': 800)        0.075      477.495
+Found cached result
+300:             hnswlib reduction ({'M': 64, 'efConstruction': 500}, 'efQuery': 600)        0.075      568.260
+Found cached result
+301:              hnswlib reduction ({'M': 8, 'efConstruction': 500}, 'efQuery': 200)        0.075     2233.984
+Found cached result
+302: hnswlib reduction ({'M': 16, 'efConstruction': 500, 'useJL': True, 'jlTargetEps': 0.1, 'jlMinDim': 32}, 'efQuery': 10, 'useJL': True, 'jlTargetEps': 0.1, 'jlMinDim': 32)        0.079    11571.965
+Found cached result
+303:              hnswlib reduction ({'M': 8, 'efConstruction': 500}, 'efQuery': 400)        0.075     1165.847
+Found cached result
+304: hnswlib reduction ({'M': 16, 'efConstruction': 500, 'useJL': True, 'jlTargetEps': 0.1, 'jlMinDim': 32}, 'efQuery': 20, 'useJL': True, 'jlTargetEps': 0.1, 'jlMinDim': 32)        0.077     9316.791
+Found cached result
+305: hnswlib reduction ({'M': 16, 'efConstruction': 500, 'useJL': True, 'jlTargetEps': 0.1, 'jlMinDim': 32}, 'efQuery': 40, 'useJL': True, 'jlTargetEps': 0.1, 'jlMinDim': 32)        0.076     6348.662
+Found cached result
+306: hnswlib reduction ({'M': 16, 'efConstruction': 500, 'useJL': True, 'jlTargetEps': 0.1, 'jlMinDim': 32}, 'efQuery': 80, 'useJL': True, 'jlTargetEps': 0.1, 'jlMinDim': 32)        0.075     3563.780
+Found cached result
+307:             hnswlib reduction ({'M': 64, 'efConstruction': 500}, 'efQuery': 800)        0.075      447.606
+Found cached result
+308:              hnswlib reduction ({'M': 8, 'efConstruction': 500}, 'efQuery': 600)        0.075      819.312
+Found cached result
+309: hnswlib reduction ({'M': 16, 'efConstruction': 500, 'useJL': True, 'jlTargetEps': 0.1, 'jlMinDim': 32}, 'efQuery': 120, 'useJL': True, 'jlTargetEps': 0.1, 'jlMinDim': 32)        0.075     2428.475
+Found cached result
+310:              hnswlib reduction ({'M': 12, 'efConstruction': 500}, 'efQuery': 10)        0.080    18800.756
+Found cached result
+311:              hnswlib reduction ({'M': 12, 'efConstruction': 500}, 'efQuery': 20)        0.078    11709.319
+Found cached result
+312:              hnswlib reduction ({'M': 12, 'efConstruction': 500}, 'efQuery': 40)        0.076     6969.210
+Found cached result
+313: hnswlib reduction ({'M': 16, 'efConstruction': 500, 'useJL': True, 'jlTargetEps': 0.1, 'jlMinDim': 32}, 'efQuery': 200, 'useJL': True, 'jlTargetEps': 0.1, 'jlMinDim': 32)        0.075     1484.276
+Found cached result
+314:              hnswlib reduction ({'M': 12, 'efConstruction': 500}, 'efQuery': 80)        0.076     4208.653
+Found cached result
+315:              hnswlib reduction ({'M': 8, 'efConstruction': 500}, 'efQuery': 800)        0.075      607.851
+Found cached result
+316:              hnswlib reduction ({'M': 16, 'efConstruction': 500}, 'efQuery': 10)        0.079    13435.075
+Found cached result
+317:             hnswlib reduction ({'M': 12, 'efConstruction': 500}, 'efQuery': 120)        0.075     2702.465
+Found cached result
+318:              hnswlib reduction ({'M': 16, 'efConstruction': 500}, 'efQuery': 20)        0.077     8840.477
+Found cached result
+319:              hnswlib reduction ({'M': 16, 'efConstruction': 500}, 'efQuery': 40)        0.076     5000.076
+Found cached result
+320: hnswlib reduction ({'M': 16, 'efConstruction': 500, 'useJL': True, 'jlTargetEps': 0.1, 'jlMinDim': 32}, 'efQuery': 400, 'useJL': True, 'jlTargetEps': 0.1, 'jlMinDim': 32)        0.075      805.767
+Found cached result
+321:             hnswlib reduction ({'M': 12, 'efConstruction': 500}, 'efQuery': 200)        0.075     1780.076
+Found cached result
+322:              hnswlib reduction ({'M': 16, 'efConstruction': 500}, 'efQuery': 80)        0.075     3185.529
+Found cached result
+323:             hnswlib reduction ({'M': 16, 'efConstruction': 500}, 'efQuery': 120)        0.075     2110.152
+Found cached result
+324:             hnswlib reduction ({'M': 12, 'efConstruction': 500}, 'efQuery': 400)        0.075      933.100
+Found cached result
+325: hnswlib reduction ({'M': 16, 'efConstruction': 500, 'useJL': True, 'jlTargetEps': 0.1, 'jlMinDim': 32}, 'efQuery': 600, 'useJL': True, 'jlTargetEps': 0.1, 'jlMinDim': 32)        0.075      548.188
+Found cached result
+326:             hnswlib reduction ({'M': 16, 'efConstruction': 500}, 'efQuery': 200)        0.075     1394.042
+Found cached result
+327: hnswlib reduction ({'M': 16, 'efConstruction': 500, 'useJL': True, 'jlTargetEps': 0.3, 'jlMinDim': 32}, 'efQuery': 10, 'useJL': True, 'jlTargetEps': 0.3, 'jlMinDim': 32)        0.079    11907.315
+Found cached result
+328: hnswlib reduction ({'M': 16, 'efConstruction': 500, 'useJL': True, 'jlTargetEps': 0.2, 'jlMinDim': 32}, 'efQuery': 10, 'useJL': True, 'jlTargetEps': 0.2, 'jlMinDim': 32)        0.079    15255.232
+Found cached result
+329:             hnswlib reduction ({'M': 12, 'efConstruction': 500}, 'efQuery': 600)        0.075      660.271
+Found cached result
+330: hnswlib reduction ({'M': 16, 'efConstruction': 500, 'useJL': True, 'jlTargetEps': 0.3, 'jlMinDim': 32}, 'efQuery': 20, 'useJL': True, 'jlTargetEps': 0.3, 'jlMinDim': 32)        0.077     8896.940
+Found cached result
+331: hnswlib reduction ({'M': 16, 'efConstruction': 500, 'useJL': True, 'jlTargetEps': 0.2, 'jlMinDim': 32}, 'efQuery': 20, 'useJL': True, 'jlTargetEps': 0.2, 'jlMinDim': 32)        0.077     9791.078
+Found cached result
+332:             hnswlib reduction ({'M': 16, 'efConstruction': 500}, 'efQuery': 400)        0.075      771.086
+Found cached result
+333: hnswlib reduction ({'M': 16, 'efConstruction': 500, 'useJL': True, 'jlTargetEps': 0.3, 'jlMinDim': 32}, 'efQuery': 40, 'useJL': True, 'jlTargetEps': 0.3, 'jlMinDim': 32)        0.076     6377.861
+Found cached result
+334: hnswlib reduction ({'M': 16, 'efConstruction': 500, 'useJL': True, 'jlTargetEps': 0.2, 'jlMinDim': 32}, 'efQuery': 40, 'useJL': True, 'jlTargetEps': 0.2, 'jlMinDim': 32)        0.076     5682.773
+Found cached result
+335: hnswlib reduction ({'M': 16, 'efConstruction': 500, 'useJL': True, 'jlTargetEps': 0.2, 'jlMinDim': 32}, 'efQuery': 80, 'useJL': True, 'jlTargetEps': 0.2, 'jlMinDim': 32)        0.075     3475.196
+Found cached result
+336: hnswlib reduction ({'M': 16, 'efConstruction': 500, 'useJL': True, 'jlTargetEps': 0.3, 'jlMinDim': 32}, 'efQuery': 80, 'useJL': True, 'jlTargetEps': 0.3, 'jlMinDim': 32)        0.075     3146.674
+Found cached result
+337: hnswlib reduction ({'M': 16, 'efConstruction': 500, 'useJL': True, 'jlTargetEps': 0.1, 'jlMinDim': 32}, 'efQuery': 800, 'useJL': True, 'jlTargetEps': 0.1, 'jlMinDim': 32)        0.075      430.437
+Found cached result
+338: hnswlib reduction ({'M': 16, 'efConstruction': 500, 'useJL': True, 'jlTargetEps': 0.2, 'jlMinDim': 32}, 'efQuery': 120, 'useJL': True, 'jlTargetEps': 0.2, 'jlMinDim': 32)        0.075     2414.633
+Found cached result
+339: hnswlib reduction ({'M': 16, 'efConstruction': 500, 'useJL': True, 'jlTargetEps': 0.3, 'jlMinDim': 32}, 'efQuery': 120, 'useJL': True, 'jlTargetEps': 0.3, 'jlMinDim': 32)        0.075     2309.442
+Found cached result
+340:             hnswlib reduction ({'M': 12, 'efConstruction': 500}, 'efQuery': 800)        0.075      499.401
+Found cached result
+341:             hnswlib reduction ({'M': 16, 'efConstruction': 500}, 'efQuery': 600)        0.075      532.179
+Found cached result
+342: hnswlib reduction ({'M': 16, 'efConstruction': 500, 'useJL': True, 'jlTargetEps': 0.2, 'jlMinDim': 32}, 'efQuery': 200, 'useJL': True, 'jlTargetEps': 0.2, 'jlMinDim': 32)        0.075     1514.693
+Found cached result
+343: hnswlib reduction ({'M': 16, 'efConstruction': 500, 'useJL': True, 'jlTargetEps': 0.3, 'jlMinDim': 32}, 'efQuery': 200, 'useJL': True, 'jlTargetEps': 0.3, 'jlMinDim': 32)        0.075     1429.110
+Found cached result
+344:              hnswlib reduction ({'M': 36, 'efConstruction': 500}, 'efQuery': 10)        0.077    16203.539
+Found cached result
+345:              hnswlib reduction ({'M': 36, 'efConstruction': 500}, 'efQuery': 20)        0.076    11183.946
+Found cached result
+346: hnswlib reduction ({'M': 16, 'efConstruction': 500, 'useJL': True, 'jlTargetEps': 0.2, 'jlMinDim': 32}, 'efQuery': 400, 'useJL': True, 'jlTargetEps': 0.2, 'jlMinDim': 32)        0.075      809.129
+Found cached result
+347:              hnswlib reduction ({'M': 36, 'efConstruction': 500}, 'efQuery': 40)        0.075     6926.645
+Found cached result
+348: hnswlib reduction ({'M': 16, 'efConstruction': 500, 'useJL': True, 'jlTargetEps': 0.3, 'jlMinDim': 32}, 'efQuery': 400, 'useJL': True, 'jlTargetEps': 0.3, 'jlMinDim': 32)        0.075      810.278
+Found cached result
+349:              hnswlib reduction ({'M': 36, 'efConstruction': 500}, 'efQuery': 80)        0.075     3961.099
+Found cached result
+350:             hnswlib reduction ({'M': 36, 'efConstruction': 500}, 'efQuery': 120)        0.075     2812.953
+Found cached result
+351:             hnswlib reduction ({'M': 16, 'efConstruction': 500}, 'efQuery': 800)        0.075      410.811
+Found cached result
+352:             hnswlib reduction ({'M': 36, 'efConstruction': 500}, 'efQuery': 200)        0.075     1847.582
+Found cached result
+353: hnswlib reduction ({'M': 16, 'efConstruction': 500, 'useJL': True, 'jlTargetEps': 0.2, 'jlMinDim': 32}, 'efQuery': 600, 'useJL': True, 'jlTargetEps': 0.2, 'jlMinDim': 32)        0.075      566.284
+Found cached result
+354: hnswlib reduction ({'M': 16, 'efConstruction': 500, 'useJL': True, 'jlTargetEps': 0.3, 'jlMinDim': 32}, 'efQuery': 600, 'useJL': True, 'jlTargetEps': 0.3, 'jlMinDim': 32)        0.075      555.286
+Found cached result
+355:             hnswlib reduction ({'M': 36, 'efConstruction': 500}, 'efQuery': 400)        0.075     1016.148
+Found cached result
+356:             hnswlib reduction ({'M': 36, 'efConstruction': 500}, 'efQuery': 600)        0.075      711.538
+Found cached result
+357: hnswlib reduction ({'M': 16, 'efConstruction': 500, 'useJL': True, 'jlTargetEps': 0.2, 'jlMinDim': 32}, 'efQuery': 800, 'useJL': True, 'jlTargetEps': 0.2, 'jlMinDim': 32)        0.075      428.101
+Found cached result
+358: hnswlib reduction ({'M': 16, 'efConstruction': 500, 'useJL': True, 'jlTargetEps': 0.3, 'jlMinDim': 32}, 'efQuery': 800, 'useJL': True, 'jlTargetEps': 0.3, 'jlMinDim': 32)        0.075      430.732
+Found cached result
+359: hnswlib reduction ({'M': 24, 'efConstruction': 500, 'useJL': True, 'jlTargetEps': 0.3, 'jlMinDim': 32}, 'efQuery': 10, 'useJL': True, 'jlTargetEps': 0.3, 'jlMinDim': 32)        0.078    10996.457
+Found cached result
+360:             hnswlib reduction ({'M': 36, 'efConstruction': 500}, 'efQuery': 800)        0.075      557.515
+Found cached result
+361: hnswlib reduction ({'M': 24, 'efConstruction': 500, 'useJL': True, 'jlTargetEps': 0.3, 'jlMinDim': 32}, 'efQuery': 20, 'useJL': True, 'jlTargetEps': 0.3, 'jlMinDim': 32)        0.076     6792.909
+Found cached result
+362: hnswlib reduction ({'M': 24, 'efConstruction': 500, 'useJL': True, 'jlTargetEps': 0.3, 'jlMinDim': 32}, 'efQuery': 40, 'useJL': True, 'jlTargetEps': 0.3, 'jlMinDim': 32)        0.075     4681.650
+Found cached result
+363: hnswlib reduction ({'M': 24, 'efConstruction': 500, 'useJL': True, 'jlTargetEps': 0.3, 'jlMinDim': 32}, 'efQuery': 80, 'useJL': True, 'jlTargetEps': 0.3, 'jlMinDim': 32)        0.075     2600.142
+Found cached result
+364: hnswlib reduction ({'M': 24, 'efConstruction': 500, 'useJL': True, 'jlTargetEps': 0.3, 'jlMinDim': 32}, 'efQuery': 120, 'useJL': True, 'jlTargetEps': 0.3, 'jlMinDim': 32)        0.075     1763.759
+Found cached result
+365:              hnswlib reduction ({'M': 96, 'efConstruction': 500}, 'efQuery': 10)        0.076    13716.670
+Found cached result
+366:              hnswlib reduction ({'M': 96, 'efConstruction': 500}, 'efQuery': 20)        0.076     9243.747
+Found cached result
+367:              hnswlib reduction ({'M': 96, 'efConstruction': 500}, 'efQuery': 40)        0.075     5565.285
+Found cached result
+368: hnswlib reduction ({'M': 24, 'efConstruction': 500, 'useJL': True, 'jlTargetEps': 0.3, 'jlMinDim': 32}, 'efQuery': 200, 'useJL': True, 'jlTargetEps': 0.3, 'jlMinDim': 32)        0.075     1193.923
+Found cached result
+369:              hnswlib reduction ({'M': 96, 'efConstruction': 500}, 'efQuery': 80)        0.075     3192.997
+Found cached result
+370:             hnswlib reduction ({'M': 96, 'efConstruction': 500}, 'efQuery': 120)        0.075     2256.862
+Found cached result
+371:             hnswlib reduction ({'M': 96, 'efConstruction': 500}, 'efQuery': 200)        0.075     1473.520
+Found cached result
+372: hnswlib reduction ({'M': 24, 'efConstruction': 500, 'useJL': True, 'jlTargetEps': 0.3, 'jlMinDim': 32}, 'efQuery': 400, 'useJL': True, 'jlTargetEps': 0.3, 'jlMinDim': 32)        0.075      624.971
+Found cached result
+373:             hnswlib reduction ({'M': 96, 'efConstruction': 500}, 'efQuery': 400)        0.075      814.556
+Found cached result
+374: hnswlib reduction ({'M': 24, 'efConstruction': 500, 'useJL': True, 'jlTargetEps': 0.3, 'jlMinDim': 32}, 'efQuery': 600, 'useJL': True, 'jlTargetEps': 0.3, 'jlMinDim': 32)        0.075      442.723
+Found cached result
+375:             hnswlib reduction ({'M': 96, 'efConstruction': 500}, 'efQuery': 600)        0.075      577.618
+Found cached result
+376:             hnswlib reduction ({'M': 96, 'efConstruction': 500}, 'efQuery': 800)        0.075      453.290
+Found cached result
+377: hnswlib reduction ({'M': 24, 'efConstruction': 500, 'useJL': True, 'jlTargetEps': 0.3, 'jlMinDim': 32}, 'efQuery': 800, 'useJL': True, 'jlTargetEps': 0.3, 'jlMinDim': 32)        0.075      341.471
+Found cached result
+378:          hnswlib ({'M': 4, 'efConstruction': 500, 'alpha': 10.0}, 'efQuery': 10)        0.117    37324.871
+Found cached result
+379:          hnswlib ({'M': 4, 'efConstruction': 500, 'alpha': 10.0}, 'efQuery': 20)        0.101    22450.671
+Found cached result
+380:          hnswlib ({'M': 4, 'efConstruction': 500, 'alpha': 10.0}, 'efQuery': 40)        0.090    12070.242
+Found cached result
+381:          hnswlib ({'M': 4, 'efConstruction': 500, 'alpha': 10.0}, 'efQuery': 80)        0.083     6811.244
+Found cached result
+382:         hnswlib ({'M': 4, 'efConstruction': 500, 'alpha': 10.0}, 'efQuery': 120)        0.080     5086.155
+Found cached result
+383:         hnswlib ({'M': 4, 'efConstruction': 500, 'alpha': 10.0}, 'efQuery': 200)        0.078     3224.177
+Found cached result
+384:         hnswlib ({'M': 4, 'efConstruction': 500, 'alpha': 10.0}, 'efQuery': 400)        0.077     1831.974
+Found cached result
+385:         hnswlib ({'M': 4, 'efConstruction': 500, 'alpha': 10.0}, 'efQuery': 600)        0.076     1207.452
+Found cached result
+386:          hnswlib ({'M': 8, 'efConstruction': 500, 'alpha': 10.0}, 'efQuery': 10)        0.090    19394.119
+Found cached result
+387:          hnswlib ({'M': 8, 'efConstruction': 500, 'alpha': 10.0}, 'efQuery': 20)        0.083    13550.798
+Found cached result
+388:         hnswlib ({'M': 4, 'efConstruction': 500, 'alpha': 10.0}, 'efQuery': 800)        0.076      940.977
+Found cached result
+389:          hnswlib ({'M': 8, 'efConstruction': 500, 'alpha': 10.0}, 'efQuery': 40)        0.079     8703.076
+Found cached result
+390:          hnswlib ({'M': 8, 'efConstruction': 500, 'alpha': 10.0}, 'efQuery': 80)        0.077     5089.184
+Found cached result
+391:         hnswlib ({'M': 8, 'efConstruction': 500, 'alpha': 10.0}, 'efQuery': 120)        0.076     3867.562
+Found cached result
+392:         hnswlib ({'M': 8, 'efConstruction': 500, 'alpha': 10.0}, 'efQuery': 200)        0.076     2335.351
+Found cached result
+393:         hnswlib ({'M': 8, 'efConstruction': 500, 'alpha': 10.0}, 'efQuery': 400)        0.075     1217.038
+Found cached result
+394:         hnswlib ({'M': 8, 'efConstruction': 500, 'alpha': 10.0}, 'efQuery': 600)        0.075      847.466
+Found cached result
+395:         hnswlib ({'M': 12, 'efConstruction': 500, 'alpha': 10.0}, 'efQuery': 10)        0.084    13371.406
+Found cached result
+396:         hnswlib ({'M': 12, 'efConstruction': 500, 'alpha': 10.0}, 'efQuery': 20)        0.079    11545.965
+Found cached result
+397:         hnswlib ({'M': 8, 'efConstruction': 500, 'alpha': 10.0}, 'efQuery': 800)        0.075      674.601
+Found cached result
+398:         hnswlib ({'M': 12, 'efConstruction': 500, 'alpha': 10.0}, 'efQuery': 40)        0.077     5894.066
+Found cached result
+399:         hnswlib ({'M': 12, 'efConstruction': 500, 'alpha': 10.0}, 'efQuery': 80)        0.076     4040.852
+Found cached result
+400:        hnswlib ({'M': 12, 'efConstruction': 500, 'alpha': 10.0}, 'efQuery': 120)        0.076     2801.159
+Found cached result
+401:        hnswlib ({'M': 12, 'efConstruction': 500, 'alpha': 10.0}, 'efQuery': 200)        0.075     3642.937
+Found cached result
+402:         hnswlib ({'M': 16, 'efConstruction': 500, 'alpha': 10.0}, 'efQuery': 10)        0.081    12261.899
+Found cached result
+403:        hnswlib ({'M': 12, 'efConstruction': 500, 'alpha': 10.0}, 'efQuery': 400)        0.075     1990.929
+Found cached result
+404:         hnswlib ({'M': 16, 'efConstruction': 500, 'alpha': 10.0}, 'efQuery': 20)        0.078     8363.569
+Found cached result
+405:         hnswlib ({'M': 16, 'efConstruction': 500, 'alpha': 10.0}, 'efQuery': 40)        0.076     5579.175
+Found cached result
+406:        hnswlib ({'M': 12, 'efConstruction': 500, 'alpha': 10.0}, 'efQuery': 600)        0.075     1379.789
+Found cached result
+407:         hnswlib ({'M': 16, 'efConstruction': 500, 'alpha': 10.0}, 'efQuery': 80)        0.076     3111.128
+Found cached result
+408:        hnswlib ({'M': 16, 'efConstruction': 500, 'alpha': 10.0}, 'efQuery': 120)        0.075     2253.520
+Found cached result
+409:        hnswlib ({'M': 12, 'efConstruction': 500, 'alpha': 10.0}, 'efQuery': 800)        0.075     1061.885
+Found cached result
+410:        hnswlib ({'M': 16, 'efConstruction': 500, 'alpha': 10.0}, 'efQuery': 200)        0.075     1521.821
+Found cached result
+411:        hnswlib ({'M': 16, 'efConstruction': 500, 'alpha': 10.0}, 'efQuery': 400)        0.075      809.328
+Found cached result
+412:        hnswlib ({'M': 16, 'efConstruction': 500, 'alpha': 10.0}, 'efQuery': 600)        0.075      577.224
+Found cached result
+413:        hnswlib ({'M': 16, 'efConstruction': 500, 'alpha': 10.0}, 'efQuery': 800)        0.075      459.927
+Found cached result
+414:         hnswlib ({'M': 24, 'efConstruction': 500, 'alpha': 10.0}, 'efQuery': 10)        0.078    20300.419
+Found cached result
+415:         hnswlib ({'M': 24, 'efConstruction': 500, 'alpha': 10.0}, 'efQuery': 20)        0.077    14039.018
+Found cached result
+416:         hnswlib ({'M': 24, 'efConstruction': 500, 'alpha': 10.0}, 'efQuery': 40)        0.076     8947.379
+Found cached result
+417:         hnswlib ({'M': 24, 'efConstruction': 500, 'alpha': 10.0}, 'efQuery': 80)        0.075     5314.050
+Found cached result
+418:        hnswlib ({'M': 24, 'efConstruction': 500, 'alpha': 10.0}, 'efQuery': 120)        0.075     3821.485
+Found cached result
+419:        hnswlib ({'M': 24, 'efConstruction': 500, 'alpha': 10.0}, 'efQuery': 200)        0.075     2495.547
+Found cached result
+420:        hnswlib ({'M': 24, 'efConstruction': 500, 'alpha': 10.0}, 'efQuery': 400)        0.075     1375.389
+Found cached result
+421:        hnswlib ({'M': 24, 'efConstruction': 500, 'alpha': 10.0}, 'efQuery': 600)        0.075      962.810
+Found cached result
+422:        hnswlib ({'M': 24, 'efConstruction': 500, 'alpha': 10.0}, 'efQuery': 800)        0.075      744.667
+Found cached result
+423:         hnswlib ({'M': 36, 'efConstruction': 500, 'alpha': 10.0}, 'efQuery': 10)        0.077    16777.122
+Found cached result
+424:         hnswlib ({'M': 36, 'efConstruction': 500, 'alpha': 10.0}, 'efQuery': 20)        0.076    11324.843
+Found cached result
+425:         hnswlib ({'M': 36, 'efConstruction': 500, 'alpha': 10.0}, 'efQuery': 40)        0.075     7043.264
+Found cached result
+426:         hnswlib ({'M': 36, 'efConstruction': 500, 'alpha': 10.0}, 'efQuery': 80)        0.075     4137.590
+Found cached result
+427:        hnswlib ({'M': 36, 'efConstruction': 500, 'alpha': 10.0}, 'efQuery': 120)        0.075     2988.802
+Found cached result
+428:        hnswlib ({'M': 36, 'efConstruction': 500, 'alpha': 10.0}, 'efQuery': 200)        0.075     1968.814
+Found cached result
+429:        hnswlib ({'M': 36, 'efConstruction': 500, 'alpha': 10.0}, 'efQuery': 400)        0.075     1094.770
+Found cached result
+430:        hnswlib ({'M': 36, 'efConstruction': 500, 'alpha': 10.0}, 'efQuery': 600)        0.075      770.062
+Found cached result
+431:        hnswlib ({'M': 36, 'efConstruction': 500, 'alpha': 10.0}, 'efQuery': 800)        0.075      597.285
+Found cached result
+432:         hnswlib ({'M': 48, 'efConstruction': 500, 'alpha': 10.0}, 'efQuery': 10)        0.076    14275.877
+Found cached result
+433:         hnswlib ({'M': 48, 'efConstruction': 500, 'alpha': 10.0}, 'efQuery': 20)        0.076     9460.005
+Found cached result
+434:         hnswlib ({'M': 48, 'efConstruction': 500, 'alpha': 10.0}, 'efQuery': 40)        0.075     5781.471
+Found cached result
+435:         hnswlib ({'M': 48, 'efConstruction': 500, 'alpha': 10.0}, 'efQuery': 80)        0.075     3422.382
+Found cached result
+436:        hnswlib ({'M': 48, 'efConstruction': 500, 'alpha': 10.0}, 'efQuery': 120)        0.075     2481.929
+Found cached result
+437:        hnswlib ({'M': 48, 'efConstruction': 500, 'alpha': 10.0}, 'efQuery': 200)        0.075     1639.455
+Found cached result
+438:        hnswlib ({'M': 48, 'efConstruction': 500, 'alpha': 10.0}, 'efQuery': 400)        0.075      917.249
+Found cached result
+439:        hnswlib ({'M': 48, 'efConstruction': 500, 'alpha': 10.0}, 'efQuery': 600)        0.075      645.627
+Found cached result
+440:        hnswlib ({'M': 48, 'efConstruction': 500, 'alpha': 10.0}, 'efQuery': 800)        0.075      501.921
+Found cached result
+441:           hnswlib ({'M': 4, 'efConstruction': 500, 'alpha': 5.0}, 'efQuery': 10)        0.118    16481.317
+Found cached result
+442:           hnswlib ({'M': 4, 'efConstruction': 500, 'alpha': 5.0}, 'efQuery': 20)        0.102    10579.187
+Found cached result
+443:           hnswlib ({'M': 4, 'efConstruction': 500, 'alpha': 5.0}, 'efQuery': 40)        0.090     7419.679
+Found cached result
+444:           hnswlib ({'M': 4, 'efConstruction': 500, 'alpha': 5.0}, 'efQuery': 80)        0.083     4477.651
+Found cached result
+445:          hnswlib ({'M': 4, 'efConstruction': 500, 'alpha': 5.0}, 'efQuery': 120)        0.080     3601.955
+Found cached result
+446:          hnswlib ({'M': 4, 'efConstruction': 500, 'alpha': 5.0}, 'efQuery': 200)        0.078     2428.982
+Found cached result
+447:          hnswlib ({'M': 4, 'efConstruction': 500, 'alpha': 5.0}, 'efQuery': 400)        0.077     1249.170
+Found cached result
+448:          hnswlib ({'M': 4, 'efConstruction': 500, 'alpha': 5.0}, 'efQuery': 600)        0.076      841.922
+Found cached result
+449:           hnswlib ({'M': 8, 'efConstruction': 500, 'alpha': 5.0}, 'efQuery': 10)        0.090    14282.386
+Found cached result
+450:           hnswlib ({'M': 8, 'efConstruction': 500, 'alpha': 5.0}, 'efQuery': 20)        0.083     9836.910
+Found cached result
+451:           hnswlib ({'M': 8, 'efConstruction': 500, 'alpha': 5.0}, 'efQuery': 40)        0.079     7213.008
+Found cached result
+452:          hnswlib ({'M': 4, 'efConstruction': 500, 'alpha': 5.0}, 'efQuery': 800)        0.076      630.096
+Found cached result
+453:           hnswlib ({'M': 8, 'efConstruction': 500, 'alpha': 5.0}, 'efQuery': 80)        0.077     3601.407
+Found cached result
+454:          hnswlib ({'M': 8, 'efConstruction': 500, 'alpha': 5.0}, 'efQuery': 120)        0.076     2727.684
+Found cached result
+455:          hnswlib ({'M': 8, 'efConstruction': 500, 'alpha': 5.0}, 'efQuery': 200)        0.076     2838.443
+Found cached result
+456:          hnswlib ({'M': 8, 'efConstruction': 500, 'alpha': 5.0}, 'efQuery': 400)        0.075     2515.306
+Found cached result
+457:          hnswlib ({'M': 8, 'efConstruction': 500, 'alpha': 5.0}, 'efQuery': 600)        0.075     1740.040
+Found cached result
+458:          hnswlib ({'M': 8, 'efConstruction': 500, 'alpha': 5.0}, 'efQuery': 800)        0.075     1334.940
+Found cached result
+459:          hnswlib ({'M': 12, 'efConstruction': 500, 'alpha': 5.0}, 'efQuery': 10)        0.084    17031.379
+Found cached result
+460:          hnswlib ({'M': 12, 'efConstruction': 500, 'alpha': 5.0}, 'efQuery': 20)        0.079     9285.531
+Found cached result
+461:          hnswlib ({'M': 12, 'efConstruction': 500, 'alpha': 5.0}, 'efQuery': 40)        0.077     4982.839
+Found cached result
+462:          hnswlib ({'M': 12, 'efConstruction': 500, 'alpha': 5.0}, 'efQuery': 80)        0.076     2738.248
+Found cached result
+463:         hnswlib ({'M': 12, 'efConstruction': 500, 'alpha': 5.0}, 'efQuery': 120)        0.076     2057.307
+Found cached result
+464:         hnswlib ({'M': 12, 'efConstruction': 500, 'alpha': 5.0}, 'efQuery': 200)        0.075     1278.182
+Found cached result
+465:         hnswlib ({'M': 12, 'efConstruction': 500, 'alpha': 5.0}, 'efQuery': 400)        0.075      680.220
+Found cached result
+466:          hnswlib ({'M': 16, 'efConstruction': 500, 'alpha': 5.0}, 'efQuery': 10)        0.081    12208.960
+Found cached result
+467:          hnswlib ({'M': 16, 'efConstruction': 500, 'alpha': 5.0}, 'efQuery': 20)        0.078     9784.687
+Found cached result
+468:          hnswlib ({'M': 16, 'efConstruction': 500, 'alpha': 5.0}, 'efQuery': 40)        0.076     6962.665
+Found cached result
+469:         hnswlib ({'M': 12, 'efConstruction': 500, 'alpha': 5.0}, 'efQuery': 600)        0.075      459.742
+Found cached result
+470:          hnswlib ({'M': 16, 'efConstruction': 500, 'alpha': 5.0}, 'efQuery': 80)        0.076     3571.481
+Found cached result
+471:         hnswlib ({'M': 16, 'efConstruction': 500, 'alpha': 5.0}, 'efQuery': 120)        0.075     2503.949
+Found cached result
+472:         hnswlib ({'M': 16, 'efConstruction': 500, 'alpha': 5.0}, 'efQuery': 200)        0.075     1662.177
+Found cached result
+473:         hnswlib ({'M': 16, 'efConstruction': 500, 'alpha': 5.0}, 'efQuery': 400)        0.075      887.191
+Found cached result
+474:         hnswlib ({'M': 12, 'efConstruction': 500, 'alpha': 5.0}, 'efQuery': 800)        0.075      354.960
+Found cached result
+475:         hnswlib ({'M': 16, 'efConstruction': 500, 'alpha': 5.0}, 'efQuery': 600)        0.075      596.465
+Found cached result
+476:         hnswlib ({'M': 16, 'efConstruction': 500, 'alpha': 5.0}, 'efQuery': 800)        0.075      456.693
+Found cached result
+477:          hnswlib ({'M': 24, 'efConstruction': 500, 'alpha': 5.0}, 'efQuery': 10)        0.078     9458.420
+Found cached result
+478:          hnswlib ({'M': 24, 'efConstruction': 500, 'alpha': 5.0}, 'efQuery': 20)        0.077     7435.594
+Found cached result
+479:          hnswlib ({'M': 24, 'efConstruction': 500, 'alpha': 5.0}, 'efQuery': 40)        0.076     4090.540
+Found cached result
+480:          hnswlib ({'M': 24, 'efConstruction': 500, 'alpha': 5.0}, 'efQuery': 80)        0.075     2474.924
+Found cached result
+481:         hnswlib ({'M': 24, 'efConstruction': 500, 'alpha': 5.0}, 'efQuery': 120)        0.075     1747.765
+Found cached result
+482:         hnswlib ({'M': 24, 'efConstruction': 500, 'alpha': 5.0}, 'efQuery': 200)        0.075     1140.315
+Found cached result
+483:         hnswlib ({'M': 24, 'efConstruction': 500, 'alpha': 5.0}, 'efQuery': 400)        0.075     1326.978
+Found cached result
+484:         hnswlib ({'M': 24, 'efConstruction': 500, 'alpha': 5.0}, 'efQuery': 600)        0.075      935.278
+Found cached result
+485:         hnswlib ({'M': 24, 'efConstruction': 500, 'alpha': 5.0}, 'efQuery': 800)        0.075      724.636
+Found cached result
+486:          hnswlib ({'M': 36, 'efConstruction': 500, 'alpha': 5.0}, 'efQuery': 10)        0.077    15966.999
+Found cached result
+487:          hnswlib ({'M': 36, 'efConstruction': 500, 'alpha': 5.0}, 'efQuery': 20)        0.076    10819.839
+Found cached result
+488:          hnswlib ({'M': 36, 'efConstruction': 500, 'alpha': 5.0}, 'efQuery': 40)        0.075     6780.569
+Found cached result
+489:          hnswlib ({'M': 36, 'efConstruction': 500, 'alpha': 5.0}, 'efQuery': 80)        0.075     4013.345
+Found cached result
+490:         hnswlib ({'M': 36, 'efConstruction': 500, 'alpha': 5.0}, 'efQuery': 120)        0.075     2876.039
+Found cached result
+491:         hnswlib ({'M': 36, 'efConstruction': 500, 'alpha': 5.0}, 'efQuery': 200)        0.075     1892.348
+Found cached result
+492:         hnswlib ({'M': 36, 'efConstruction': 500, 'alpha': 5.0}, 'efQuery': 400)        0.075     1057.692
+Found cached result
+493:         hnswlib ({'M': 36, 'efConstruction': 500, 'alpha': 5.0}, 'efQuery': 600)        0.075      742.436
+Found cached result
+494:         hnswlib ({'M': 36, 'efConstruction': 500, 'alpha': 5.0}, 'efQuery': 800)        0.075      581.054
+Found cached result
+495:          hnswlib ({'M': 48, 'efConstruction': 500, 'alpha': 5.0}, 'efQuery': 10)        0.076    13950.629
+Found cached result
+496:          hnswlib ({'M': 48, 'efConstruction': 500, 'alpha': 5.0}, 'efQuery': 20)        0.076     9286.900
+Found cached result
+497:          hnswlib ({'M': 48, 'efConstruction': 500, 'alpha': 5.0}, 'efQuery': 40)        0.075     5728.254
+Found cached result
+498:          hnswlib ({'M': 48, 'efConstruction': 500, 'alpha': 5.0}, 'efQuery': 80)        0.075     3348.804
+Found cached result
+499:         hnswlib ({'M': 48, 'efConstruction': 500, 'alpha': 5.0}, 'efQuery': 120)        0.075     2437.796
+Found cached result
+500:         hnswlib ({'M': 48, 'efConstruction': 500, 'alpha': 5.0}, 'efQuery': 200)        0.075     1611.021
+Found cached result
+501:         hnswlib ({'M': 48, 'efConstruction': 500, 'alpha': 5.0}, 'efQuery': 400)        0.075      909.329
+Found cached result
+502:         hnswlib ({'M': 48, 'efConstruction': 500, 'alpha': 5.0}, 'efQuery': 600)        0.075      635.310
+Found cached result
+503:         hnswlib ({'M': 48, 'efConstruction': 500, 'alpha': 5.0}, 'efQuery': 800)        0.075      496.256
+Found cached result
+504:                         hnswlib ({'M': 4, 'efConstruction': 500}, 'efQuery': 10)        0.105    43104.535
+Found cached result
+505:                         hnswlib ({'M': 4, 'efConstruction': 500}, 'efQuery': 20)        0.092    19454.046
+Found cached result
+506:                         hnswlib ({'M': 4, 'efConstruction': 500}, 'efQuery': 40)        0.084     7520.377
+Found cached result
+507:                         hnswlib ({'M': 4, 'efConstruction': 500}, 'efQuery': 80)        0.080     4848.797
+Found cached result
+508:                        hnswlib ({'M': 4, 'efConstruction': 500}, 'efQuery': 120)        0.078     4173.489
+Found cached result
+509:                        hnswlib ({'M': 4, 'efConstruction': 500}, 'efQuery': 200)        0.077     2412.566
+Found cached result
+510:                        hnswlib ({'M': 4, 'efConstruction': 500}, 'efQuery': 400)        0.076     1259.283
+Found cached result
+511:                        hnswlib ({'M': 4, 'efConstruction': 500}, 'efQuery': 600)        0.076      775.071
+Found cached result
+512:                         hnswlib ({'M': 8, 'efConstruction': 500}, 'efQuery': 10)        0.084    19774.127
+Found cached result
+513:                         hnswlib ({'M': 8, 'efConstruction': 500}, 'efQuery': 20)        0.079    11585.989
+Found cached result
+514:                         hnswlib ({'M': 8, 'efConstruction': 500}, 'efQuery': 40)        0.077     6016.982
+Found cached result
+515:                        hnswlib ({'M': 4, 'efConstruction': 500}, 'efQuery': 800)        0.076      605.541
+Found cached result
+516:                         hnswlib ({'M': 8, 'efConstruction': 500}, 'efQuery': 80)        0.076     3336.010
+Found cached result
+517:                        hnswlib ({'M': 8, 'efConstruction': 500}, 'efQuery': 120)        0.076     2386.753
+Found cached result
+518:                        hnswlib ({'M': 8, 'efConstruction': 500}, 'efQuery': 200)        0.075     1562.150
+Found cached result
+519:                        hnswlib ({'M': 8, 'efConstruction': 500}, 'efQuery': 400)        0.075      842.873
+Found cached result
+520:                        hnswlib ({'M': 8, 'efConstruction': 500}, 'efQuery': 600)        0.075      568.888
+Found cached result
+521:                        hnswlib ({'M': 12, 'efConstruction': 500}, 'efQuery': 10)        0.080    14847.294
+Found cached result
+522:                        hnswlib ({'M': 12, 'efConstruction': 500}, 'efQuery': 20)        0.078    10664.605
+Found cached result
+523:                        hnswlib ({'M': 12, 'efConstruction': 500}, 'efQuery': 40)        0.076     4889.434
+Found cached result
+524:                        hnswlib ({'M': 8, 'efConstruction': 500}, 'efQuery': 800)        0.075      434.687
+Found cached result
+525:                        hnswlib ({'M': 12, 'efConstruction': 500}, 'efQuery': 80)        0.076     3493.035
+Found cached result
+526:                       hnswlib ({'M': 12, 'efConstruction': 500}, 'efQuery': 120)        0.075     1859.603
+Found cached result
+527:                       hnswlib ({'M': 12, 'efConstruction': 500}, 'efQuery': 200)        0.075     1347.630
+Found cached result
+528:                       hnswlib ({'M': 12, 'efConstruction': 500}, 'efQuery': 400)        0.075      659.311
+Found cached result
+529:                       hnswlib ({'M': 12, 'efConstruction': 500}, 'efQuery': 600)        0.075      420.811
+Found cached result
+530:                        hnswlib ({'M': 16, 'efConstruction': 500}, 'efQuery': 10)        0.079    15294.896
+Found cached result
+531:                        hnswlib ({'M': 24, 'efConstruction': 500}, 'efQuery': 10)        0.078    10634.623
+Found cached result
+532:                        hnswlib ({'M': 16, 'efConstruction': 500}, 'efQuery': 20)        0.077     6193.477
+Found cached result
+533:                        hnswlib ({'M': 24, 'efConstruction': 500}, 'efQuery': 20)        0.076     8396.334
+Found cached result
+534:                        hnswlib ({'M': 24, 'efConstruction': 500}, 'efQuery': 40)        0.075     5259.178
+Found cached result
+535:                        hnswlib ({'M': 16, 'efConstruction': 500}, 'efQuery': 40)        0.076     3505.105
+Found cached result
+536:                        hnswlib ({'M': 24, 'efConstruction': 500}, 'efQuery': 80)        0.075     2758.272
+Found cached result
+537:                        hnswlib ({'M': 16, 'efConstruction': 500}, 'efQuery': 80)        0.075     2470.993
+Found cached result
+538:                       hnswlib ({'M': 24, 'efConstruction': 500}, 'efQuery': 120)        0.075     1829.853
+Found cached result
+539:                       hnswlib ({'M': 16, 'efConstruction': 500}, 'efQuery': 120)        0.075     1494.965
+Found cached result
+540:                       hnswlib ({'M': 12, 'efConstruction': 500}, 'efQuery': 800)        0.075      341.181
+Found cached result
+541:                       hnswlib ({'M': 24, 'efConstruction': 500}, 'efQuery': 200)        0.075     1134.744
+Found cached result
+542:                       hnswlib ({'M': 16, 'efConstruction': 500}, 'efQuery': 200)        0.075      993.687
+Found cached result
+543:                       hnswlib ({'M': 24, 'efConstruction': 500}, 'efQuery': 400)        0.075      625.448
+Found cached result
+544:                       hnswlib ({'M': 16, 'efConstruction': 500}, 'efQuery': 400)        0.075      520.102
+Found cached result
+545:                       hnswlib ({'M': 24, 'efConstruction': 500}, 'efQuery': 600)        0.075      428.469
+Found cached result
+546:                       hnswlib ({'M': 16, 'efConstruction': 500}, 'efQuery': 600)        0.075      376.059
+Found cached result
+547:                       hnswlib ({'M': 24, 'efConstruction': 500}, 'efQuery': 800)        0.075      320.966
+Found cached result
+548:                       hnswlib ({'M': 16, 'efConstruction': 500}, 'efQuery': 800)        0.075      278.365
+Found cached result
+549:                        hnswlib ({'M': 96, 'efConstruction': 500}, 'efQuery': 10)        0.076    12313.260
+Found cached result
+550:                        hnswlib ({'M': 96, 'efConstruction': 500}, 'efQuery': 20)        0.076     8443.124
+Found cached result
+551:                        hnswlib ({'M': 96, 'efConstruction': 500}, 'efQuery': 40)        0.075     5156.231
+Found cached result
+552:                        hnswlib ({'M': 96, 'efConstruction': 500}, 'efQuery': 80)        0.075     2962.931
+Found cached result
+553:                       hnswlib ({'M': 96, 'efConstruction': 500}, 'efQuery': 120)        0.075     2180.935
+Found cached result
+554:                       hnswlib ({'M': 96, 'efConstruction': 500}, 'efQuery': 200)        0.075     1428.596
+Found cached result
+555:                       hnswlib ({'M': 96, 'efConstruction': 500}, 'efQuery': 400)        0.075      792.433
+Found cached result
+556:                        hnswlib ({'M': 48, 'efConstruction': 500}, 'efQuery': 10)        0.077     8317.774
+Found cached result
+557:                        hnswlib ({'M': 48, 'efConstruction': 500}, 'efQuery': 20)        0.076     5678.939
+Found cached result
+558:                        hnswlib ({'M': 48, 'efConstruction': 500}, 'efQuery': 40)        0.075     3496.956
+Found cached result
+559:                       hnswlib ({'M': 96, 'efConstruction': 500}, 'efQuery': 600)        0.075      562.673
+Found cached result
+560:                        hnswlib ({'M': 48, 'efConstruction': 500}, 'efQuery': 80)        0.075     1841.631
+Found cached result
+561:                        hnswlib ({'M': 64, 'efConstruction': 500}, 'efQuery': 10)        0.077     7612.562
+Found cached result
+562:                        hnswlib ({'M': 64, 'efConstruction': 500}, 'efQuery': 20)        0.076     5157.381
+Found cached result
+563:                       hnswlib ({'M': 48, 'efConstruction': 500}, 'efQuery': 120)        0.075     1261.350
+Found cached result
+564:                        hnswlib ({'M': 64, 'efConstruction': 500}, 'efQuery': 40)        0.075     3345.354
+Found cached result
+565:                       hnswlib ({'M': 96, 'efConstruction': 500}, 'efQuery': 800)        0.075      440.068
+Found cached result
+566:                        hnswlib ({'M': 64, 'efConstruction': 500}, 'efQuery': 80)        0.075     1672.282
+Found cached result
+567:                        hnswlib ({'M': 36, 'efConstruction': 500}, 'efQuery': 10)        0.077     9382.036
+Found cached result
+568:                       hnswlib ({'M': 48, 'efConstruction': 500}, 'efQuery': 200)        0.075      817.987
+Found cached result
+569:                        hnswlib ({'M': 36, 'efConstruction': 500}, 'efQuery': 20)        0.076     5911.172
+Found cached result
+570:                        hnswlib ({'M': 36, 'efConstruction': 500}, 'efQuery': 40)        0.075     3611.371
+Found cached result
+571:                       hnswlib ({'M': 64, 'efConstruction': 500}, 'efQuery': 120)        0.075     1196.439
+Found cached result
+572:                        hnswlib ({'M': 36, 'efConstruction': 500}, 'efQuery': 80)        0.075     2107.720
+Found cached result
+573:                       hnswlib ({'M': 64, 'efConstruction': 500}, 'efQuery': 200)        0.075      765.745
+Found cached result
+574:                       hnswlib ({'M': 48, 'efConstruction': 500}, 'efQuery': 400)        0.075      463.142
+Found cached result
+575:                       hnswlib ({'M': 36, 'efConstruction': 500}, 'efQuery': 120)        0.075     1498.069
+Found cached result
+576:                       hnswlib ({'M': 36, 'efConstruction': 500}, 'efQuery': 200)        0.075      933.066
+Found cached result
+577:                       hnswlib ({'M': 64, 'efConstruction': 500}, 'efQuery': 400)        0.075      433.879
+Found cached result
+578:                       hnswlib ({'M': 48, 'efConstruction': 500}, 'efQuery': 600)        0.075      323.376
+Found cached result
+579:                       hnswlib ({'M': 36, 'efConstruction': 500}, 'efQuery': 400)        0.075      514.570
+Found cached result
+580:                       hnswlib ({'M': 64, 'efConstruction': 500}, 'efQuery': 600)        0.075      300.998
+Found cached result
+581:                       hnswlib ({'M': 36, 'efConstruction': 500}, 'efQuery': 600)        0.075      362.652
+Found cached result
+582:                       hnswlib ({'M': 48, 'efConstruction': 500}, 'efQuery': 800)        0.075      253.785
+Found cached result
+583:                       hnswlib ({'M': 36, 'efConstruction': 500}, 'efQuery': 800)        0.075      277.684
+Found cached result
+584:                       hnswlib ({'M': 64, 'efConstruction': 500}, 'efQuery': 800)        0.075      238.656
+Found cached result
+585:           hnswlib ({'M': 8, 'efConstruction': 500, 'alpha': 2.5}, 'efQuery': 10)        0.095    26269.500
+Found cached result
+586:           hnswlib ({'M': 8, 'efConstruction': 500, 'alpha': 2.5}, 'efQuery': 20)        0.086    10353.083
+Found cached result
+587:           hnswlib ({'M': 8, 'efConstruction': 500, 'alpha': 2.5}, 'efQuery': 40)        0.080     5540.457
+Found cached result
+588:           hnswlib ({'M': 8, 'efConstruction': 500, 'alpha': 2.5}, 'efQuery': 80)        0.078     3499.236
+Found cached result
+589:          hnswlib ({'M': 8, 'efConstruction': 500, 'alpha': 2.5}, 'efQuery': 120)        0.077     3085.936
+Found cached result
+590:          hnswlib ({'M': 8, 'efConstruction': 500, 'alpha': 2.5}, 'efQuery': 200)        0.076     1795.122
+Found cached result
+591:          hnswlib ({'M': 8, 'efConstruction': 500, 'alpha': 2.5}, 'efQuery': 400)        0.076      874.861
+Found cached result
+592:          hnswlib ({'M': 8, 'efConstruction': 500, 'alpha': 2.5}, 'efQuery': 600)        0.075      628.105
+Found cached result
+593:          hnswlib ({'M': 8, 'efConstruction': 500, 'alpha': 2.5}, 'efQuery': 800)        0.075      474.549
+Found cached result
+594:          hnswlib ({'M': 16, 'efConstruction': 500, 'alpha': 2.5}, 'efQuery': 10)        0.083    10094.415
+Found cached result
+595:          hnswlib ({'M': 16, 'efConstruction': 500, 'alpha': 2.5}, 'efQuery': 20)        0.079     6223.036
+Found cached result
+596:          hnswlib ({'M': 16, 'efConstruction': 500, 'alpha': 2.5}, 'efQuery': 40)        0.077     4144.867
+Found cached result
+597:          hnswlib ({'M': 16, 'efConstruction': 500, 'alpha': 2.5}, 'efQuery': 80)        0.076     2585.468
+Found cached result
+598:         hnswlib ({'M': 16, 'efConstruction': 500, 'alpha': 2.5}, 'efQuery': 120)        0.076     1840.149
+Found cached result
+599:         hnswlib ({'M': 16, 'efConstruction': 500, 'alpha': 2.5}, 'efQuery': 200)        0.075     1184.538
+Found cached result
+600:         hnswlib ({'M': 16, 'efConstruction': 500, 'alpha': 2.5}, 'efQuery': 400)        0.075      609.901
+Found cached result
+601:         hnswlib ({'M': 16, 'efConstruction': 500, 'alpha': 2.5}, 'efQuery': 600)        0.075      420.944
+Found cached result
+602:         hnswlib ({'M': 16, 'efConstruction': 500, 'alpha': 2.5}, 'efQuery': 800)        0.075      484.668
+Found cached result
+603:          hnswlib ({'M': 24, 'efConstruction': 500, 'alpha': 2.5}, 'efQuery': 10)        0.081    10485.254
+Found cached result
+604:          hnswlib ({'M': 24, 'efConstruction': 500, 'alpha': 2.5}, 'efQuery': 20)        0.078     6316.838
+Found cached result
+605:          hnswlib ({'M': 24, 'efConstruction': 500, 'alpha': 2.5}, 'efQuery': 40)        0.076     3957.904
+Found cached result
+606:          hnswlib ({'M': 24, 'efConstruction': 500, 'alpha': 2.5}, 'efQuery': 80)        0.076     1877.178
+Found cached result
+607:         hnswlib ({'M': 24, 'efConstruction': 500, 'alpha': 2.5}, 'efQuery': 120)        0.075     1387.982
+Found cached result
+608:         hnswlib ({'M': 24, 'efConstruction': 500, 'alpha': 2.5}, 'efQuery': 200)        0.075      918.435
+Found cached result
+609:         hnswlib ({'M': 24, 'efConstruction': 500, 'alpha': 2.5}, 'efQuery': 400)        0.075      490.789
+Found cached result
+610:          hnswlib ({'M': 48, 'efConstruction': 500, 'alpha': 2.5}, 'efQuery': 10)        0.078    13391.279
+Found cached result
+611:          hnswlib ({'M': 48, 'efConstruction': 500, 'alpha': 2.5}, 'efQuery': 20)        0.076     9306.771
+Found cached result
+612:          hnswlib ({'M': 48, 'efConstruction': 500, 'alpha': 2.5}, 'efQuery': 40)        0.076     5965.260
+Found cached result
+613:          hnswlib ({'M': 48, 'efConstruction': 500, 'alpha': 2.5}, 'efQuery': 80)        0.075     3526.230
+Found cached result
+614:         hnswlib ({'M': 48, 'efConstruction': 500, 'alpha': 2.5}, 'efQuery': 120)        0.075     2559.848
+Found cached result
+615:         hnswlib ({'M': 24, 'efConstruction': 500, 'alpha': 2.5}, 'efQuery': 600)        0.075      341.673
+Found cached result
+616:         hnswlib ({'M': 48, 'efConstruction': 500, 'alpha': 2.5}, 'efQuery': 200)        0.075     1722.835
+Found cached result
+617:         hnswlib ({'M': 48, 'efConstruction': 500, 'alpha': 2.5}, 'efQuery': 400)        0.075      963.185
+Found cached result
+618:         hnswlib ({'M': 48, 'efConstruction': 500, 'alpha': 2.5}, 'efQuery': 600)        0.075      679.410
+Found cached result
+619:         hnswlib ({'M': 24, 'efConstruction': 500, 'alpha': 2.5}, 'efQuery': 800)        0.075      263.221
+Found cached result
+620:          hnswlib ({'M': 36, 'efConstruction': 500, 'alpha': 2.5}, 'efQuery': 10)        0.079    10084.515
+Found cached result
+621:          hnswlib ({'M': 36, 'efConstruction': 500, 'alpha': 2.5}, 'efQuery': 20)        0.077     6289.597
+Found cached result
+622:         hnswlib ({'M': 48, 'efConstruction': 500, 'alpha': 2.5}, 'efQuery': 800)        0.075      534.091
+Found cached result
+623:          hnswlib ({'M': 36, 'efConstruction': 500, 'alpha': 2.5}, 'efQuery': 40)        0.076     3784.396
+Found cached result
+624:          hnswlib ({'M': 36, 'efConstruction': 500, 'alpha': 2.5}, 'efQuery': 80)        0.075     2081.179
+Found cached result
+625:         hnswlib ({'M': 36, 'efConstruction': 500, 'alpha': 2.5}, 'efQuery': 120)        0.075     1543.740
+Found cached result
+626:         hnswlib ({'M': 36, 'efConstruction': 500, 'alpha': 2.5}, 'efQuery': 200)        0.075     1018.248
+Found cached result
+627:         hnswlib ({'M': 36, 'efConstruction': 500, 'alpha': 2.5}, 'efQuery': 400)        0.075      584.776
+Found cached result
+628:         hnswlib ({'M': 36, 'efConstruction': 500, 'alpha': 2.5}, 'efQuery': 600)        0.075      404.791
+Found cached result
+629:         hnswlib ({'M': 36, 'efConstruction': 500, 'alpha': 2.5}, 'efQuery': 800)        0.075      315.894
+Found cached result
+630:          hnswlib ({'M': 64, 'efConstruction': 500, 'alpha': 2.5}, 'efQuery': 10)        0.077     6155.284
+Found cached result
+631:          hnswlib ({'M': 64, 'efConstruction': 500, 'alpha': 2.5}, 'efQuery': 20)        0.076     4073.430
+Found cached result
+632:          hnswlib ({'M': 64, 'efConstruction': 500, 'alpha': 2.5}, 'efQuery': 40)        0.076     2471.228
+Found cached result
+633:          hnswlib ({'M': 64, 'efConstruction': 500, 'alpha': 2.5}, 'efQuery': 80)        0.075     1484.308
+Found cached result
+634:         hnswlib ({'M': 64, 'efConstruction': 500, 'alpha': 2.5}, 'efQuery': 120)        0.075     1091.869
+Found cached result
+635:         hnswlib ({'M': 64, 'efConstruction': 500, 'alpha': 2.5}, 'efQuery': 200)        0.075      755.883
+Found cached result
+636:         hnswlib ({'M': 64, 'efConstruction': 500, 'alpha': 2.5}, 'efQuery': 400)        0.075      411.137
+Found cached result
+637:          hnswlib ({'M': 96, 'efConstruction': 500, 'alpha': 2.5}, 'efQuery': 10)        0.077     9564.162
+Found cached result
+638:          hnswlib ({'M': 96, 'efConstruction': 500, 'alpha': 2.5}, 'efQuery': 20)        0.076     6405.704
+Found cached result
+639:          hnswlib ({'M': 96, 'efConstruction': 500, 'alpha': 2.5}, 'efQuery': 40)        0.075     3951.205
+Found cached result
+640:          hnswlib ({'M': 96, 'efConstruction': 500, 'alpha': 2.5}, 'efQuery': 80)        0.075     2333.462
+Found cached result
+641:         hnswlib ({'M': 96, 'efConstruction': 500, 'alpha': 2.5}, 'efQuery': 120)        0.075     1691.872
+Found cached result
+642:         hnswlib ({'M': 64, 'efConstruction': 500, 'alpha': 2.5}, 'efQuery': 600)        0.075      291.405
+Found cached result
+643:         hnswlib ({'M': 96, 'efConstruction': 500, 'alpha': 2.5}, 'efQuery': 200)        0.075     1132.933
+Found cached result
+644:         hnswlib ({'M': 96, 'efConstruction': 500, 'alpha': 2.5}, 'efQuery': 400)        0.075      631.369
+Found cached result
+645:         hnswlib ({'M': 64, 'efConstruction': 500, 'alpha': 2.5}, 'efQuery': 800)        0.075      221.858
+Found cached result
+646:         hnswlib ({'M': 96, 'efConstruction': 500, 'alpha': 2.5}, 'efQuery': 600)        0.075      445.217
+Found cached result
+647:         hnswlib ({'M': 96, 'efConstruction': 500, 'alpha': 2.5}, 'efQuery': 800)        0.075      354.514
+Found cached result
+648:           hnswlib ({'M': 4, 'efConstruction': 500, 'alpha': 7.5}, 'efQuery': 10)        0.118    45889.741
+Found cached result
+649:           hnswlib ({'M': 4, 'efConstruction': 500, 'alpha': 7.5}, 'efQuery': 20)        0.102    19775.265
+Found cached result
+650:           hnswlib ({'M': 4, 'efConstruction': 500, 'alpha': 7.5}, 'efQuery': 40)        0.090     7243.089
+Found cached result
+651:           hnswlib ({'M': 4, 'efConstruction': 500, 'alpha': 7.5}, 'efQuery': 80)        0.083     5093.856
+Found cached result
+652:          hnswlib ({'M': 4, 'efConstruction': 500, 'alpha': 7.5}, 'efQuery': 120)        0.080     3883.563
+Found cached result
+653:          hnswlib ({'M': 4, 'efConstruction': 500, 'alpha': 7.5}, 'efQuery': 200)        0.078     2314.478
+Found cached result
+654:          hnswlib ({'M': 4, 'efConstruction': 500, 'alpha': 7.5}, 'efQuery': 400)        0.077     1236.621
+Found cached result
+655:           hnswlib ({'M': 8, 'efConstruction': 500, 'alpha': 7.5}, 'efQuery': 10)        0.090    19297.847
+Found cached result
+656:           hnswlib ({'M': 8, 'efConstruction': 500, 'alpha': 7.5}, 'efQuery': 20)        0.083    19741.078
+Found cached result
+657:           hnswlib ({'M': 8, 'efConstruction': 500, 'alpha': 7.5}, 'efQuery': 40)        0.079     8786.582
+Found cached result
+658:           hnswlib ({'M': 8, 'efConstruction': 500, 'alpha': 7.5}, 'efQuery': 80)        0.077     5000.488
+Found cached result
+659:          hnswlib ({'M': 4, 'efConstruction': 500, 'alpha': 7.5}, 'efQuery': 600)        0.076      864.344
+Found cached result
+660:          hnswlib ({'M': 8, 'efConstruction': 500, 'alpha': 7.5}, 'efQuery': 120)        0.076     3665.652
+Found cached result
+661:          hnswlib ({'M': 8, 'efConstruction': 500, 'alpha': 7.5}, 'efQuery': 200)        0.076     2331.976
+Found cached result
+662:          hnswlib ({'M': 4, 'efConstruction': 500, 'alpha': 7.5}, 'efQuery': 800)        0.076      655.243
+Found cached result
+663:          hnswlib ({'M': 8, 'efConstruction': 500, 'alpha': 7.5}, 'efQuery': 400)        0.075     1347.935
+Found cached result
+664:          hnswlib ({'M': 8, 'efConstruction': 500, 'alpha': 7.5}, 'efQuery': 600)        0.075      906.077
+Found cached result
+665:          hnswlib ({'M': 8, 'efConstruction': 500, 'alpha': 7.5}, 'efQuery': 800)        0.075      682.808
+Found cached result
+666:          hnswlib ({'M': 12, 'efConstruction': 500, 'alpha': 7.5}, 'efQuery': 10)        0.084    10145.135
+Found cached result
+667:          hnswlib ({'M': 12, 'efConstruction': 500, 'alpha': 7.5}, 'efQuery': 20)        0.079    10776.928
+Found cached result
+668:          hnswlib ({'M': 12, 'efConstruction': 500, 'alpha': 7.5}, 'efQuery': 40)        0.077     4699.243
+Found cached result
+669:          hnswlib ({'M': 12, 'efConstruction': 500, 'alpha': 7.5}, 'efQuery': 80)        0.076     2981.044
+Found cached result
+670:         hnswlib ({'M': 12, 'efConstruction': 500, 'alpha': 7.5}, 'efQuery': 120)        0.076     1945.159
+Found cached result
+671:         hnswlib ({'M': 12, 'efConstruction': 500, 'alpha': 7.5}, 'efQuery': 200)        0.075     1318.487
+Found cached result
+672:         hnswlib ({'M': 12, 'efConstruction': 500, 'alpha': 7.5}, 'efQuery': 400)        0.075      700.753
+Found cached result
+673:          hnswlib ({'M': 16, 'efConstruction': 500, 'alpha': 7.5}, 'efQuery': 10)        0.081    13179.829
+Found cached result
+674:          hnswlib ({'M': 16, 'efConstruction': 500, 'alpha': 7.5}, 'efQuery': 20)        0.078    10390.477
+Found cached result
+675:          hnswlib ({'M': 16, 'efConstruction': 500, 'alpha': 7.5}, 'efQuery': 40)        0.076     6123.279
+Found cached result
+676:          hnswlib ({'M': 16, 'efConstruction': 500, 'alpha': 7.5}, 'efQuery': 80)        0.076     3738.532
+Found cached result
+677:         hnswlib ({'M': 12, 'efConstruction': 500, 'alpha': 7.5}, 'efQuery': 600)        0.075      469.653
+Found cached result
+678:         hnswlib ({'M': 16, 'efConstruction': 500, 'alpha': 7.5}, 'efQuery': 120)        0.075     2602.119
+Found cached result
+679:         hnswlib ({'M': 16, 'efConstruction': 500, 'alpha': 7.5}, 'efQuery': 200)        0.075     1702.765
+Found cached result
+680:         hnswlib ({'M': 16, 'efConstruction': 500, 'alpha': 7.5}, 'efQuery': 400)        0.075      855.256
+Found cached result
+681:         hnswlib ({'M': 12, 'efConstruction': 500, 'alpha': 7.5}, 'efQuery': 800)        0.075      362.410
+Found cached result
+682:         hnswlib ({'M': 16, 'efConstruction': 500, 'alpha': 7.5}, 'efQuery': 600)        0.075      620.760
+Found cached result
+683:         hnswlib ({'M': 16, 'efConstruction': 500, 'alpha': 7.5}, 'efQuery': 800)        0.075      472.288
+Found cached result
+684:          hnswlib ({'M': 36, 'efConstruction': 500, 'alpha': 7.5}, 'efQuery': 10)        0.077    16226.721
+Found cached result
+685:          hnswlib ({'M': 36, 'efConstruction': 500, 'alpha': 7.5}, 'efQuery': 20)        0.076    11008.649
+Found cached result
+686:          hnswlib ({'M': 36, 'efConstruction': 500, 'alpha': 7.5}, 'efQuery': 40)        0.075     6857.301
+Found cached result
+687:          hnswlib ({'M': 36, 'efConstruction': 500, 'alpha': 7.5}, 'efQuery': 80)        0.075     4030.022
+Found cached result
+688:         hnswlib ({'M': 36, 'efConstruction': 500, 'alpha': 7.5}, 'efQuery': 120)        0.075     2911.157
+Found cached result
+689:         hnswlib ({'M': 36, 'efConstruction': 500, 'alpha': 7.5}, 'efQuery': 200)        0.075     1918.033
+Found cached result
+690:         hnswlib ({'M': 36, 'efConstruction': 500, 'alpha': 7.5}, 'efQuery': 400)        0.075     1069.257
+Found cached result
+691:         hnswlib ({'M': 36, 'efConstruction': 500, 'alpha': 7.5}, 'efQuery': 600)        0.075      752.864
+Found cached result
+692:         hnswlib ({'M': 36, 'efConstruction': 500, 'alpha': 7.5}, 'efQuery': 800)        0.075      584.681
+Found cached result
+693:          hnswlib ({'M': 4, 'efConstruction': 500, 'alpha': 10.0}, 'efQuery': 10)        0.118    41064.828
+Found cached result
+694:          hnswlib ({'M': 4, 'efConstruction': 500, 'alpha': 10.0}, 'efQuery': 20)        0.101    17663.306
+Found cached result
+695:          hnswlib ({'M': 4, 'efConstruction': 500, 'alpha': 10.0}, 'efQuery': 40)        0.090    11226.814
+Found cached result
+696:          hnswlib ({'M': 4, 'efConstruction': 500, 'alpha': 10.0}, 'efQuery': 80)        0.083     4733.678
+Found cached result
+697:         hnswlib ({'M': 4, 'efConstruction': 500, 'alpha': 10.0}, 'efQuery': 120)        0.081     3167.118
+Found cached result
+698:         hnswlib ({'M': 4, 'efConstruction': 500, 'alpha': 10.0}, 'efQuery': 200)        0.078     1962.650
+Found cached result
+699:         hnswlib ({'M': 4, 'efConstruction': 500, 'alpha': 10.0}, 'efQuery': 400)        0.077     1177.416
+Found cached result
+700:          hnswlib ({'M': 8, 'efConstruction': 500, 'alpha': 10.0}, 'efQuery': 10)        0.090    26245.353
+Found cached result
+701:         hnswlib ({'M': 4, 'efConstruction': 500, 'alpha': 10.0}, 'efQuery': 600)        0.076      804.646
+Found cached result
+702:          hnswlib ({'M': 8, 'efConstruction': 500, 'alpha': 10.0}, 'efQuery': 20)        0.083    12660.777
+Found cached result
+703:          hnswlib ({'M': 8, 'efConstruction': 500, 'alpha': 10.0}, 'efQuery': 40)        0.079     9503.131
+Found cached result
+704:          hnswlib ({'M': 8, 'efConstruction': 500, 'alpha': 10.0}, 'efQuery': 80)        0.077     5761.852
+Found cached result
+705:         hnswlib ({'M': 8, 'efConstruction': 500, 'alpha': 10.0}, 'efQuery': 120)        0.076     3676.136
+Found cached result
+706:         hnswlib ({'M': 4, 'efConstruction': 500, 'alpha': 10.0}, 'efQuery': 800)        0.076      634.462
+Found cached result
+707:         hnswlib ({'M': 8, 'efConstruction': 500, 'alpha': 10.0}, 'efQuery': 200)        0.076     2426.483
+Found cached result
+708:         hnswlib ({'M': 8, 'efConstruction': 500, 'alpha': 10.0}, 'efQuery': 400)        0.075     1395.659
+Found cached result
+709:         hnswlib ({'M': 8, 'efConstruction': 500, 'alpha': 10.0}, 'efQuery': 600)        0.075      886.180
+Found cached result
+710:         hnswlib ({'M': 8, 'efConstruction': 500, 'alpha': 10.0}, 'efQuery': 800)        0.075      688.868
+Found cached result
+711:         hnswlib ({'M': 12, 'efConstruction': 500, 'alpha': 10.0}, 'efQuery': 10)        0.083    14463.252
+Found cached result
+712:         hnswlib ({'M': 12, 'efConstruction': 500, 'alpha': 10.0}, 'efQuery': 20)        0.079     9508.423
+Found cached result
+713:         hnswlib ({'M': 12, 'efConstruction': 500, 'alpha': 10.0}, 'efQuery': 40)        0.077     6574.839
+Found cached result
+714:         hnswlib ({'M': 12, 'efConstruction': 500, 'alpha': 10.0}, 'efQuery': 80)        0.076     3725.715
+Found cached result
+715:         hnswlib ({'M': 16, 'efConstruction': 500, 'alpha': 10.0}, 'efQuery': 10)        0.081    24564.437
+Found cached result
+716:         hnswlib ({'M': 16, 'efConstruction': 500, 'alpha': 10.0}, 'efQuery': 20)        0.078    17073.273
+Found cached result
+717:         hnswlib ({'M': 16, 'efConstruction': 500, 'alpha': 10.0}, 'efQuery': 40)        0.076    11013.002
+Found cached result
+718:        hnswlib ({'M': 12, 'efConstruction': 500, 'alpha': 10.0}, 'efQuery': 120)        0.076     2744.238
+Found cached result
+719:         hnswlib ({'M': 16, 'efConstruction': 500, 'alpha': 10.0}, 'efQuery': 80)        0.076     6666.555
+Found cached result
+720:        hnswlib ({'M': 16, 'efConstruction': 500, 'alpha': 10.0}, 'efQuery': 120)        0.075     4817.508
+Found cached result
+721:        hnswlib ({'M': 12, 'efConstruction': 500, 'alpha': 10.0}, 'efQuery': 200)        0.075     1834.686
+Found cached result
+722:        hnswlib ({'M': 16, 'efConstruction': 500, 'alpha': 10.0}, 'efQuery': 200)        0.075     3147.200
+Found cached result
+723:        hnswlib ({'M': 16, 'efConstruction': 500, 'alpha': 10.0}, 'efQuery': 400)        0.075     1723.184
+Found cached result
+724:        hnswlib ({'M': 12, 'efConstruction': 500, 'alpha': 10.0}, 'efQuery': 400)        0.075      989.816
+Found cached result
+725:        hnswlib ({'M': 16, 'efConstruction': 500, 'alpha': 10.0}, 'efQuery': 600)        0.075     1201.101
+Found cached result
+726:        hnswlib ({'M': 16, 'efConstruction': 500, 'alpha': 10.0}, 'efQuery': 800)        0.075      925.786
+Found cached result
+727:        hnswlib ({'M': 12, 'efConstruction': 500, 'alpha': 10.0}, 'efQuery': 600)        0.075      682.258
+Found cached result
+728:        hnswlib ({'M': 12, 'efConstruction': 500, 'alpha': 10.0}, 'efQuery': 800)        0.075     1090.877
+Found cached result
+729:         hnswlib ({'M': 24, 'efConstruction': 500, 'alpha': 10.0}, 'efQuery': 10)        0.078    20615.713
+Found cached result
+730:         hnswlib ({'M': 24, 'efConstruction': 500, 'alpha': 10.0}, 'efQuery': 20)        0.077    14088.513
+Found cached result
+731:         hnswlib ({'M': 24, 'efConstruction': 500, 'alpha': 10.0}, 'efQuery': 40)        0.076     8933.089
+Found cached result
+732:         hnswlib ({'M': 24, 'efConstruction': 500, 'alpha': 10.0}, 'efQuery': 80)        0.075     5291.886
+Found cached result
+733:        hnswlib ({'M': 24, 'efConstruction': 500, 'alpha': 10.0}, 'efQuery': 120)        0.075     3811.152
+Found cached result
+734:        hnswlib ({'M': 24, 'efConstruction': 500, 'alpha': 10.0}, 'efQuery': 200)        0.075     2497.873
+Found cached result
+735:        hnswlib ({'M': 24, 'efConstruction': 500, 'alpha': 10.0}, 'efQuery': 400)        0.075     1375.967
+Found cached result
+736:        hnswlib ({'M': 24, 'efConstruction': 500, 'alpha': 10.0}, 'efQuery': 600)        0.075      966.295
+Found cached result
+737:        hnswlib ({'M': 24, 'efConstruction': 500, 'alpha': 10.0}, 'efQuery': 800)        0.075      751.161
+Found cached result
+738:         hnswlib ({'M': 36, 'efConstruction': 500, 'alpha': 10.0}, 'efQuery': 10)        0.077    16758.353
+Found cached result
+739:         hnswlib ({'M': 36, 'efConstruction': 500, 'alpha': 10.0}, 'efQuery': 20)        0.076    11280.499
+Found cached result
+740:         hnswlib ({'M': 36, 'efConstruction': 500, 'alpha': 10.0}, 'efQuery': 40)        0.075     7031.399
+Found cached result
+741:         hnswlib ({'M': 36, 'efConstruction': 500, 'alpha': 10.0}, 'efQuery': 80)        0.075     4126.966
+Found cached result
+742:        hnswlib ({'M': 36, 'efConstruction': 500, 'alpha': 10.0}, 'efQuery': 120)        0.075     2982.494
+Found cached result
+743:        hnswlib ({'M': 36, 'efConstruction': 500, 'alpha': 10.0}, 'efQuery': 200)        0.075     1963.564
+Found cached result
+744:        hnswlib ({'M': 36, 'efConstruction': 500, 'alpha': 10.0}, 'efQuery': 400)        0.075     1093.787
+Found cached result
+745:        hnswlib ({'M': 36, 'efConstruction': 500, 'alpha': 10.0}, 'efQuery': 600)        0.075      769.939
+Found cached result
+746:        hnswlib ({'M': 36, 'efConstruction': 500, 'alpha': 10.0}, 'efQuery': 800)        0.075      597.629
+Found cached result
+747:         hnswlib ({'M': 16, 'efConstruction': 500, 'alpha': 1.25}, 'efQuery': 10)        0.119    13532.680
+Found cached result
+748:         hnswlib ({'M': 16, 'efConstruction': 500, 'alpha': 1.25}, 'efQuery': 20)        0.103     9195.186
+Found cached result
+749:         hnswlib ({'M': 16, 'efConstruction': 500, 'alpha': 1.25}, 'efQuery': 40)        0.092     5383.609
+Found cached result
+750:         hnswlib ({'M': 16, 'efConstruction': 500, 'alpha': 1.25}, 'efQuery': 80)        0.085     3239.744
+Found cached result
+751:        hnswlib ({'M': 16, 'efConstruction': 500, 'alpha': 1.25}, 'efQuery': 120)        0.082     1978.166
+Found cached result
+752:         hnswlib ({'M': 24, 'efConstruction': 500, 'alpha': 1.25}, 'efQuery': 10)        0.116    15496.167
+Found cached result
+753:         hnswlib ({'M': 24, 'efConstruction': 500, 'alpha': 1.25}, 'efQuery': 20)        0.101    13905.331
+Found cached result
+754:        hnswlib ({'M': 16, 'efConstruction': 500, 'alpha': 1.25}, 'efQuery': 200)        0.079     1683.315
+Found cached result
+755:         hnswlib ({'M': 24, 'efConstruction': 500, 'alpha': 1.25}, 'efQuery': 40)        0.090     7985.270
+Found cached result
+756:         hnswlib ({'M': 24, 'efConstruction': 500, 'alpha': 1.25}, 'efQuery': 80)        0.083     3579.792
+Found cached result
+757:        hnswlib ({'M': 24, 'efConstruction': 500, 'alpha': 1.25}, 'efQuery': 120)        0.081     2767.202
+Found cached result
+758:        hnswlib ({'M': 16, 'efConstruction': 500, 'alpha': 1.25}, 'efQuery': 400)        0.077      800.223
+Found cached result
+759:        hnswlib ({'M': 24, 'efConstruction': 500, 'alpha': 1.25}, 'efQuery': 200)        0.079     1715.295
+Found cached result
+760:        hnswlib ({'M': 24, 'efConstruction': 500, 'alpha': 1.25}, 'efQuery': 400)        0.077      988.103
+Found cached result
+761:        hnswlib ({'M': 16, 'efConstruction': 500, 'alpha': 1.25}, 'efQuery': 600)        0.077      582.703
+Found cached result
+762:         hnswlib ({'M': 48, 'efConstruction': 500, 'alpha': 1.25}, 'efQuery': 10)        0.114    16958.509
+Found cached result
+763:         hnswlib ({'M': 48, 'efConstruction': 500, 'alpha': 1.25}, 'efQuery': 20)        0.099     8294.825
+Found cached result
+764:         hnswlib ({'M': 36, 'efConstruction': 500, 'alpha': 1.25}, 'efQuery': 10)        0.113    17093.905
+Found cached result
+765:         hnswlib ({'M': 48, 'efConstruction': 500, 'alpha': 1.25}, 'efQuery': 40)        0.089     5858.191
+Found cached result
+766:        hnswlib ({'M': 24, 'efConstruction': 500, 'alpha': 1.25}, 'efQuery': 600)        0.076      699.755
+Found cached result
+767:         hnswlib ({'M': 36, 'efConstruction': 500, 'alpha': 1.25}, 'efQuery': 20)        0.099     4526.242
+Found cached result
+768:         hnswlib ({'M': 48, 'efConstruction': 500, 'alpha': 1.25}, 'efQuery': 80)        0.082     3081.886
+Found cached result
+769:         hnswlib ({'M': 36, 'efConstruction': 500, 'alpha': 1.25}, 'efQuery': 40)        0.089     4781.507
+Found cached result
+770:        hnswlib ({'M': 48, 'efConstruction': 500, 'alpha': 1.25}, 'efQuery': 120)        0.080     2303.250
+Found cached result
+771:        hnswlib ({'M': 16, 'efConstruction': 500, 'alpha': 1.25}, 'efQuery': 800)        0.076      458.512
+Found cached result
+772:         hnswlib ({'M': 36, 'efConstruction': 500, 'alpha': 1.25}, 'efQuery': 80)        0.083     2509.115
+Found cached result
+773:        hnswlib ({'M': 48, 'efConstruction': 500, 'alpha': 1.25}, 'efQuery': 200)        0.078     1566.577
+Found cached result
+774:        hnswlib ({'M': 24, 'efConstruction': 500, 'alpha': 1.25}, 'efQuery': 800)        0.076      543.796
+Found cached result
+775:        hnswlib ({'M': 36, 'efConstruction': 500, 'alpha': 1.25}, 'efQuery': 120)        0.080     1958.875
+Found cached result
+776:        hnswlib ({'M': 48, 'efConstruction': 500, 'alpha': 1.25}, 'efQuery': 400)        0.077      871.119
+Found cached result
+777:        hnswlib ({'M': 36, 'efConstruction': 500, 'alpha': 1.25}, 'efQuery': 200)        0.078     1149.512
+Found cached result
+778:         hnswlib ({'M': 64, 'efConstruction': 500, 'alpha': 1.25}, 'efQuery': 10)        0.114    12439.129
+Found cached result
+779:        hnswlib ({'M': 48, 'efConstruction': 500, 'alpha': 1.25}, 'efQuery': 600)        0.076      624.949
+Found cached result
+780:         hnswlib ({'M': 64, 'efConstruction': 500, 'alpha': 1.25}, 'efQuery': 20)        0.099     5636.705
+Found cached result
+781:        hnswlib ({'M': 36, 'efConstruction': 500, 'alpha': 1.25}, 'efQuery': 400)        0.077      675.783
+Found cached result
+782:         hnswlib ({'M': 64, 'efConstruction': 500, 'alpha': 1.25}, 'efQuery': 40)        0.088     3624.737
+Found cached result
+783:         hnswlib ({'M': 64, 'efConstruction': 500, 'alpha': 1.25}, 'efQuery': 80)        0.082     1860.005
+Found cached result
+784:        hnswlib ({'M': 48, 'efConstruction': 500, 'alpha': 1.25}, 'efQuery': 800)        0.076      500.187
+Found cached result
+785:         hnswlib ({'M': 96, 'efConstruction': 500, 'alpha': 1.25}, 'efQuery': 10)        0.118     8511.540
+Found cached result
+786:        hnswlib ({'M': 64, 'efConstruction': 500, 'alpha': 1.25}, 'efQuery': 120)        0.080     1709.904
+Found cached result
+787:        hnswlib ({'M': 36, 'efConstruction': 500, 'alpha': 1.25}, 'efQuery': 600)        0.076      453.278
+Found cached result
+788:         hnswlib ({'M': 96, 'efConstruction': 500, 'alpha': 1.25}, 'efQuery': 20)        0.101     4181.396
+Found cached result
+789:         hnswlib ({'M': 96, 'efConstruction': 500, 'alpha': 1.25}, 'efQuery': 40)        0.090     2910.436
+Found cached result
+790:        hnswlib ({'M': 64, 'efConstruction': 500, 'alpha': 1.25}, 'efQuery': 200)        0.078      983.777
+Found cached result
+791:         hnswlib ({'M': 96, 'efConstruction': 500, 'alpha': 1.25}, 'efQuery': 80)        0.083     2122.066
+Found cached result
+792:        hnswlib ({'M': 96, 'efConstruction': 500, 'alpha': 1.25}, 'efQuery': 120)        0.080     1877.684
+Found cached result
+793:        hnswlib ({'M': 64, 'efConstruction': 500, 'alpha': 1.25}, 'efQuery': 400)        0.077      558.185
+Found cached result
+794:        hnswlib ({'M': 36, 'efConstruction': 500, 'alpha': 1.25}, 'efQuery': 800)        0.076      364.565
+Found cached result
+795:        hnswlib ({'M': 96, 'efConstruction': 500, 'alpha': 1.25}, 'efQuery': 200)        0.078     1360.152
+Found cached result
+796:        hnswlib ({'M': 96, 'efConstruction': 500, 'alpha': 1.25}, 'efQuery': 400)        0.077      766.185
+Found cached result
+797:        hnswlib ({'M': 64, 'efConstruction': 500, 'alpha': 1.25}, 'efQuery': 600)        0.076      412.665
+Found cached result
+798:        hnswlib ({'M': 96, 'efConstruction': 500, 'alpha': 1.25}, 'efQuery': 600)        0.076      545.030
+Found cached result
+799:        hnswlib ({'M': 64, 'efConstruction': 500, 'alpha': 1.25}, 'efQuery': 800)        0.076      320.957
+Found cached result
+800:        hnswlib ({'M': 96, 'efConstruction': 500, 'alpha': 1.25}, 'efQuery': 800)        0.076      430.468
+Using temporary directory: /home/ec2-user/ann-benchmarks/temp_gnuplot_data
+Including algorithm: my-algorithm-prune-10-00
+Including algorithm: my-algorithm-prune-7-50
+Including algorithm: my-algorithm-prune-5-00
+Including algorithm: my-algorithm-prune-2-50
+Including algorithm: my-algorithm-base
+Data file created: /home/ec2-user/ann-benchmarks/temp_gnuplot_data/data_0.dat (size: 692 bytes)
+Data file created: /home/ec2-user/ann-benchmarks/temp_gnuplot_data/data_1.dat (size: 459 bytes)
+Data file created: /home/ec2-user/ann-benchmarks/temp_gnuplot_data/data_2.dat (size: 496 bytes)
+Data file created: /home/ec2-user/ann-benchmarks/temp_gnuplot_data/data_3.dat (size: 650 bytes)
+Data file created: /home/ec2-user/ann-benchmarks/temp_gnuplot_data/data_4.dat (size: 608 bytes)
+Running gnuplot command: plot "/home/ec2-user/ann-benchmarks/temp_gnuplot_data/data_0.dat" using 1:2 with linespoints linewidth 2 pointtype 1 pointsize 0.5 linecolor rgb "#332288" title "my-algorithm-prune-10-00", "/home/ec2-user/ann-benchmarks/temp_gnuplot_data/data_1.dat" using 1:2 with linespoints linewidth 2 pointtype 2 pointsize 0.5 linecolor rgb "#88CCEE" title "my-algorithm-prune-7-50", "/home/ec2-user/ann-benchmarks/temp_gnuplot_data/data_2.dat" using 1:2 with linespoints linewidth 2 pointtype 7 pointsize 0.5 linecolor rgb "#44AA99" title "my-algorithm-base", "/home/ec2-user/ann-benchmarks/temp_gnuplot_data/data_3.dat" using 1:2 with linespoints linewidth 2 pointtype 5 pointsize 0.5 linecolor rgb "#117733" title "my-algorithm-prune-5-00", "/home/ec2-user/ann-benchmarks/temp_gnuplot_data/data_4.dat" using 1:2 with linespoints linewidth 2 pointtype 9 pointsize 0.5 linecolor rgb "#CC6677" title "my-algorithm-prune-2-50"
+Plot successfully created at: results/glove-25-angular.pdf
+Temporary directory: /home/ec2-user/ann-benchmarks/temp_gnuplot_data
+Ploting...
+Finished.
