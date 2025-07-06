@@ -2,6 +2,8 @@
 
 This repository contains my junior independent work on approximate nearest neighbor (ANN) search algorithms, focusing on optimizing HNSW (Hierarchical Navigable Small World) graph algorithms for different computational environments.
 
+Before going through the repository, I highly suggest to read the thesis first to better understand the goal and approach of the project.
+
 ## Repository Structure
 
 ### ann-benchmarks-16vCPU
